@@ -1,19 +1,19 @@
 # The URL the site will be built for
-base_url = "https://zola-clean-blog.netlify.com"
+base_url = "https://bonfari.net"
 generate_rss = true
 compile_sass = true
 
-title = "Start Bootstrap"
-description = "A blog theme by Start Bootstrap"
+title = "Bonfari"
+description = "De website van Stichting Bonfari"
 highlight_code = true
 
 taxonomies = [
-    {name = "categories", rss = true, paginate_by=5},
-    {name = "tags", rss = true, paginate_by=5},
+    {name = "categorie", rss = true, paginate_by=5},
+    {name = "projecten", rss = true, paginate_by=5},
 ]
 
 [extra]
-author = "Dave"
+author = "Bonfari"
 clean_blog_menu = [
     {url = "$BASE_URL", name = "Home"},
     {url = "$BASE_URL/about", name = "About"},

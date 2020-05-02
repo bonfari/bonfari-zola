@@ -1,10 +1,11 @@
 +++
 title = "First post"
 date = 2019-01-01
+author = "Simon"
 
 [taxonomies]
-categories = ["Odd"]
-tags = ["placeholder posts", "tag1"]
+categorie = ["Odd"]
+projecten = ["placeholder posts", "tag1"]
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
