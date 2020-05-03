@@ -1,24 +1,29 @@
 backend:
-  name: git-gateway
-
+    name: git-gateway
 
 # These lines should *not* be indented
 media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    format: "toml-frontmatter"
-    label: "Posts" # Used in the UI
-    folder: "content" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "date"}
-      - {label: "Taxonomies", name: "taxonomies", widget: "object", fields: [
-          {label: "Categorie", name: "categorie", widget: "list"},
-          {label: "Project", name: "projecten", widget: "list"}
-          ]
-        }
-      - {label: "Body", name: "body", widget: "markdown"}
+    - name: "posts" # Used in routes, e.g., /admin/collections/blog
+      format: "toml-frontmatter"
+      label: "Posts" # Used in the UI
+      folder: "content" # The path to the folder where the documents are stored
+      create: true # Allow users to create new documents in this collection
+      slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+      fields: # The fields for each document, usually in front matter
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "date" }
+          - {
+                label: "Taxonomies",
+                name: "taxonomies",
+                widget: "object",
+                fields:
+                    [
+                        { label: "Categorie", name: "categorie", widget: "list" },
+                        { label: "Project", name: "projecten", widget: "list" },
+                        { label: "Functies", name: "functies", widget: "list" },
+                    ],
+            }
+          - { label: "Body", name: "body", widget: "markdown" }

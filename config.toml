@@ -10,13 +10,14 @@ highlight_code = true
 taxonomies = [
     {name = "categorie", rss = true, paginate_by=5},
     {name = "projecten", rss = true, paginate_by=5},
+    {name = "functies", rss = true, paginate_by=5}
 ]
 
 [extra]
 author = "Bonfari"
 clean_blog_menu = [
     {url = "$BASE_URL", name = "Home"},
-    {url = "$BASE_URL/about", name = "About"},
+    {url = "$BASE_URL/over", name = "Over"},
     {url = "$BASE_URL/contact", name = "Contact"}
 ]
 clean_blog_social = [
