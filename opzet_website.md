@@ -2,6 +2,7 @@
 
 -   projecten = projectnaam
 -   categorien = [blog, finance, definitie]
+-   functies = [vrijwilliger, local, extarne contacten, vrienden van]
 -   tags = [value-based volunteering, voluntourism, uitzet]
 
 1.  Doel en visie (simon)
@@ -27,4 +28,7 @@
     1.  Definieren pagina met projecten aan de hand van de tags
     2.  Individuele posts opmaken
     3.  Projecten overnmen vanuit bonfari.nl
+
+- implementeren cloudinary
+- templates voor pagina's binnen CMS
 
