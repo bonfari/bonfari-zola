@@ -1,16 +1,32 @@
 {% extends "index.html" %}
 
-{% block title %}{{ config.title }} - Categories{% endblock %}
+{% block header %}
+<header class="masthead" style="background-image: url('{{ get_url(path="/img/home-bg.jpg")}}')">
+<div class="overlay">
+</div>
+<div class="container">
+    <div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="site-heading">
+        <h1>{{config.title}}</h1>
+        <span class="subheading">Onze mensen</span>
+        </div>
+    </div>
+    </div>
+</div>
+</header>
+{% endblock header %}
 
 {% block content %}
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-            <ul>
-                {% for category in terms %}
-                <li><a href="{{ category.permalink }}">{{ category.name }}</a></li>
-                {% endfor %}
-            </ul>
+            {% set parent_section = get_section(path="functies/_index.md") %}
+            {% for page in parent_section.pages %}
+                <ul>
+                    <a href="{{ page.slug|safe }}">{{ page.title|safe }}</a>
+                </ul>
+            {% endfor %}
         </div>
     </div>
 </div>

@@ -1,26 +1,36 @@
 # The URL the site will be built for
-base_url = "https://bonfari.netlify.app/"
+base_url = "https://bonfari.netlify.app"
 generate_rss = true
 compile_sass = true
 
-title = "Bonfari"
-description = "De website van Stichting Bonfari"
+title = "Stichting Bonfari"
+description = "Wij faciliteren en ondersteunen effectief vrijwilligerswerk"
 highlight_code = true
 
 taxonomies = [
     {name = "categorie", rss = true, paginate_by=5},
     {name = "projecten", rss = true, paginate_by=5},
-    {name = "functies", rss = true, paginate_by=5}
+    {name = "functies", rss = true, paginate_by=5},
 ]
 
 [extra]
+year = "2020"
 author = "Bonfari"
 clean_blog_menu = [
-    {url = "$BASE_URL", name = "Home"},
     {url = "$BASE_URL/over", name = "Over"},
+    {url = "$BASE_URL/doel", name = "Doel"},
+    {url = "$BASE_URL/projecten", name = "Projecten"},
+    {url = "$BASE_URL/vrijwilligers", name = "Vrijwilligers"},
+    {url = "$BASE_URL/donaties", name = "Donaties"},
+    {url = "$BASE_URL/financien", name = "Financiën"},
+    {url = "$BASE_URL/blog", name = "Blog"},
     {url = "$BASE_URL/contact", name = "Contact"}
 ]
+
 clean_blog_social = [
-    {url = "https://twitter.com", icon="fab fa-twitter"},
+    {url = "https://www.linkedin.com/company/stichting-bonfari/", icon="fab fa-linkedin"},
+    {url = "https://twitter.com/St_Bonfari", icon="fab fa-twitter"},
+    {url = "https://www.facebook.com/StichtingBonfari/", icon="fab fa-facebook"},
+    {url = "https://www.instagram.com/st.bonfari/?hl=en", icon="fab fa-instagram"},
     {url = "$BASE_URL/rss.xml", icon="fas fa-rss"}
 ]

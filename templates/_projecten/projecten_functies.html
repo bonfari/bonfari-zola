@@ -1,0 +1,10 @@
+{% extends "_projecten/projecten.html" %}
+
+{% block content %}
+<!-- Main Content -->
+{% set parent_section = get_section(path="functies/_index.md") %}
+{% for page in parent_section.pages %}
+  <a>{{ page.content|safe }}</a>
+{% endfor %}
+
+{% endblock content %}

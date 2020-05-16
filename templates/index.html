@@ -1,4 +1,4 @@
-{% import "post_macros.html" as post_macros %}
+{% import "__macros/post_macros.html" as post_macros %}
 
 <!DOCTYPE html>
 <html lang="en">
@@ -25,7 +25,7 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
   <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    
+
   <!-- Custom styles for this template -->
   <link rel="stylesheet" href="{{ get_url(path="clean-blog.css", trailing_slash=false) }}">
 
@@ -79,24 +79,6 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-        <div class="posts">
-          {% for page in paginator.pages %}
-          <div class="post-preview">
-            {{ post_macros::page_title(page=page) }}
-            <p class="post-summary">{{ page.summary | safe }}</p>
-          </div>
-          {% endfor %}
-        </div>
-
-        <!-- Paginator -->
-        <div class="clearfix">
-          {% if paginator.previous %}
-          <a class="btn btn-primary float-left" href="{{ paginator.previous }}"> &larr; Newer Posts</a>
-          {% endif %}
-          {% if paginator.next %}
-          <a class="btn btn-primary float-right" href="{{ paginator.next }}">Older Posts &rarr;</a>
-          {% endif %}
-        </div>
 
       </div>
     </div>
@@ -122,8 +104,8 @@
             </li>
             {% endfor %}
           </ul>
-          <p class="copyright text-muted">{% block copyright %}Copyright &copy; Your Website
-            2019{% endblock copyright %}</p>
+          <p class="copyright text-muted">{% block copyright %}Copyright &copy; {{ config.title }}
+            2020, Adres: Heesakkerstraat 7, Eindhoven, RSIN: 856359828{% endblock copyright %}  </p>
         </div>
       </div>
     </div>

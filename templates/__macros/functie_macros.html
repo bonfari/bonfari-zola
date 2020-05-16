@@ -1,0 +1,23 @@
+<style>
+img {
+    width: 100%;
+}
+</style>
+{% macro get_functie_by_taxonomies(page) %}
+    {% set parent_section = get_section(path="functies/_index.md") %}
+    {% for functie_page in parent_section.pages %}
+        {% for functie in functie_page.taxonomies.functies %}
+            {% if page.taxonomies.functies == functie_page.taxonomies.functies %}
+                <div class="col-4">
+                    <a>
+                        <img width="100%" src="{{ functie_page.extra.foto }}" />
+                    </a>
+                    {{ functie_page.title|safe }}
+                </div>
+                {% break %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+{% endmacro page_list %}
+
+
