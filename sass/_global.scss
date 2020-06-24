@@ -1,4 +1,14 @@
 // Global styling for this template
+@font-face {
+    font-family: 'Marguerite';
+    src: url('../fonts/marguerite-webfont.woff2') format('woff2'),
+    	 url('../fonts/marguerite-webfont.ttf') format('ttf'),
+         url('../fonts/marguerite-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
   font-size: 20px;
   color: $gray-900;

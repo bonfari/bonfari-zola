@@ -5,8 +5,9 @@
   background-color: white;
   @include sans-serif-font;
   .navbar-brand {
-    font-weight: 800;
-    color: $gray-800;
+    font-family: Marguerite, Helvetica, Arial, cursive;
+    font-size: 25px;
+    color: $orange;
   }
   .navbar-toggler {
     font-size: 12px;
@@ -18,9 +19,9 @@
   .navbar-nav {
     > li.nav-item {
       > a {
-        font-size: 12px;
-        font-weight: 800;
-        letter-spacing: 1px;
+        font-size: 14px;
+        font-weight: 390;
+        letter-spacing: 1.5px;
         text-transform: uppercase;
       }
     }
@@ -30,7 +31,6 @@
     background: transparent;
     .navbar-brand {
       padding: 10px 20px;
-      color: $white;
       &:focus,
       &:hover {
         color: fade-out($white, .2);
