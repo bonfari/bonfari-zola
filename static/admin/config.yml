@@ -21,7 +21,7 @@ collections:
                 widget: "object",
                 fields:
                     [
-                        { label: "Categorie", name: "categorie", widget: "list" },
+                        { label: "tags", name: "tags", widget: "list" },
                         { label: "Project", name: "projecten", widget: "list" },
                         { label: "Functies", name: "functies", widget: "list" },
                     ],

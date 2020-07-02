@@ -8,9 +8,7 @@ description = "Wij faciliteren en ondersteunen effectief vrijwilligerswerk"
 highlight_code = true
 
 taxonomies = [
-    {name = "categorie", rss = true, paginate_by=5},
-    {name = "projecten", rss = true, paginate_by=5},
-    {name = "functies", rss = true, paginate_by=5},
+    {name = "tags", rss = true, paginate_by=5},
 ]
 
 [extra]

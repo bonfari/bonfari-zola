@@ -3,8 +3,7 @@ title = "Watertoren project"
 date = 2020-05-03T08:10:10.073Z
 path = "blog_3"
 [taxonomies]
-projecten = ["watertoren"]
-categorie = ["blog"]
+tags = ["blog"]
 +++
 
 gsdfgdgh

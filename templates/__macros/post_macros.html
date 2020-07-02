@@ -1,10 +1,12 @@
 {% macro page_title(page) %}
-<a href="{{ page.permalink }}">
-    <h2 class="post-title">{{ page.title }}</h2>
-</a>
-<p class="post-meta">Posted by
-    <a href="#">{{config.extra.author}}</a>
-    on {{ page.date | date(format="%e %B %Y")}}</p>
+    <a href="{{ page.permalink }}">
+        <h2 class="post-title">{{ page.title }}</h2>
+    </a>
+    {% if page.date %}
+        <p class="post-meta">Posted by
+            <a href="#">{{config.extra.author}}</a>
+            on {{ page.date | date(format="%e %B %Y")}}</p>
+    {% endif %}
 {% endmacro page_list %}
 
 {% macro page_header(page) %}

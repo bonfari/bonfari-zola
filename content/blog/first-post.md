@@ -4,8 +4,7 @@ date = 2019-01-01
 author = "Simon"
 path = "blog_4"
 [taxonomies]
-categorie = ["Odd"]
-projecten = ["placeholder posts", "tag1"]
+tags = ["Odd"]
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
