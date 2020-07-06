@@ -17,7 +17,13 @@ header.masthead {
     opacity: 0.5;
   }
   .page-heading,
-  .post-heading,
+  .post-heading {
+    padding: 100px 0 75px;
+    color: white;
+    @media only screen and (min-width: 768px) {
+      padding: 100px 0;
+    }
+  }
   .site-heading {
     padding: 200px 0 150px;
     color: white;

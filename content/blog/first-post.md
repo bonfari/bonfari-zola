@@ -2,7 +2,6 @@
 title = "First post"
 date = 2019-01-01
 author = "Simon"
-path = "blog_4"
 [taxonomies]
 tags = ["Odd"]
 +++

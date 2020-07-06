@@ -13,6 +13,8 @@
 <h3>{{ page.title }}</h3>
 <span class="meta">Posted by
     <a href="#">{{config.extra.author}}</a>
-    on {{ page.date | date(format="%e %B %Y")}}
+    {% if page.date %}
+      on {{ page.date | date(format="%e %B %Y")}}
+    {% endif %}
 </span>
 {% endmacro page_list %}

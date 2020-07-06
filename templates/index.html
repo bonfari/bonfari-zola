@@ -79,12 +79,12 @@
   <!-- Main Content -->
   <div class="container">
     <div class="row">
-    {% for page in paginator.pages %}
-      <div class="col-lg-4 col-md-10 mx-auto">
-          <h2>{{ page.title }}</h2>
-          {{ page.content | safe}}
-      </div>
-  	{% endfor%}
+      {% for page in paginator.pages %}
+        <div class="col-lg-4 col-md-10 mx-auto">
+            <h2>{{ page.title }}</h2>
+            {{ page.content | safe }}
+        </div>
+      {% endfor%}
   </div>
   {% endblock content %}
 
@@ -108,7 +108,7 @@
             {% endfor %}
           </ul>
           <p class="copyright text-muted">{% block copyright %}Copyright &copy; {{ config.title }}
-            2020, Adres: Willem van Millenberghstraat 21, Eindhoven, RSIN: 856359828{% endblock copyright %} </p>
+            {{ now() | date(format="%Y") }}, Adres: Willem van Millenberghstraat 21, Eindhoven, RSIN: 856359828{% endblock copyright %} </p>
         </div>
       </div>
     </div>

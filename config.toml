@@ -15,14 +15,12 @@ taxonomies = [
 year = "2020"
 author = "Bonfari"
 clean_blog_menu = [
-    {url = "$BASE_URL/over", name = "Over"},
+    {url = "$BASE_URL/help", name = "Help mee!"},
     {url = "$BASE_URL/doelvisie", name = "Doel & Visie"},
     {url = "$BASE_URL/projecten", name = "Projecten"},
-    {url = "$BASE_URL/vrijwilligers", name = "Vrijwilligers"},
-    {url = "$BASE_URL/donaties", name = "Donaties"},
     {url = "$BASE_URL/financien", name = "Financiën"},
+    {url = "$BASE_URL/over", name = "Over"},
     {url = "$BASE_URL/blog", name = "Blog"},
-    {url = "$BASE_URL/contact", name = "Contact"}
 ]
 
 clean_blog_social = [
