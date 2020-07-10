@@ -5,8 +5,6 @@ author = "Simon"
 
 [taxonomies]
 tags = ["Odd"]
-projecten = ["a"]
-functies = ["b"]
 +++
 ![](/sample.jpg)
 

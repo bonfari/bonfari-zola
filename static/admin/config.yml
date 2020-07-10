@@ -12,7 +12,6 @@ media_library:
         #   width: 160
             quality: auto
             crop: fill
-    output_filename_only: true
 
 collections:
     - name: "posts" # Used in routes, e.g., /admin/collections/blog
@@ -31,8 +30,6 @@ collections:
                 fields:
                     [
                         { label: "tags", name: "tags", widget: "list" },
-                        { label: "Project", name: "projecten", widget: "list" },
-                        { label: "Functies", name: "functies", widget: "list" },
                     ],
             }
           - { label: "Body", name: "body", widget: "markdown" }

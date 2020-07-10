@@ -1,5 +1,7 @@
 +++
 title = "Projecten"
-weight = 3
+weight = 30
+[extra]
+col = 12
 +++
 use macro to obtain projects

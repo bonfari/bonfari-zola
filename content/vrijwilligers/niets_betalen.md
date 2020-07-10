@@ -1,6 +1,8 @@
 +++
 title = "Geen betalingen"
 weight = 2
+[extra]
+col = 12
 +++
 In lijn met onze peilers zijn kosten minimaal en transparantie maximaal. Concreet gezien komt dit op het volgende neer:
 

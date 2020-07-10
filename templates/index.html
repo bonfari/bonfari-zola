@@ -81,16 +81,13 @@
     <div class="row">
       {% for page in paginator.pages %}
       {% if page.extra.col %}
-      <div class="col-lg-{{page.extra.col}} col-md-12 mx-auto">
-        <h2>{{ page.title }}</h2>
-        {{ page.content | safe }}
-      </div>
+      <div class="col-md-{{page.extra.col}} col-sm-12 mx-auto">
       {% else %}
-      <div class="col-lg-4 col-md-12 mx-auto">
+      <div class="col-md-4 col-sm-12 mx-auto">
+      {% endif %}
         <h2>{{ page.title }}</h2>
         {{ page.content | safe }}
       </div>
-      {% endif %}
       {% endfor%}
     </div>
     {% endblock content %}

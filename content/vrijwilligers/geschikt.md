@@ -1,6 +1,8 @@
 +++
 title = "Ben jij geschikt?"
 weight = 0
+[extra]
+col = 12
 +++
 Vrijwilligers zijn hoofdverantwoordelijk voor de uitvoering van projecten, in samenwerking met lokale partners. Daarom zoeken we ondernemende, pro-actieve vrijwilligers met een kritische houding. Je krijgt als vrijwilliger een unieke kans om in een andere situatie te leren leven en daar samen te werken met de lokale bevolking als projectmanager en uitvoerder. We zijn dus op zoek naar mensen met de volgende kenmerken:
 <ul class="list-styled text-justify">
