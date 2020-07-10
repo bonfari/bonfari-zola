@@ -2,9 +2,13 @@
 title = "First post"
 date = 2019-01-01
 author = "Simon"
+
 [taxonomies]
 tags = ["Odd"]
+projecten = ["a"]
+functies = ["b"]
 +++
+![](/sample.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
