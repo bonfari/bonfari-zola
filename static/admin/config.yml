@@ -3,7 +3,7 @@ backend:
 
 # global
 media_library:
-  name: 
+  name: cloudinary
   config:
     cloud_name: bonfari
     api_key: 994249357162695
