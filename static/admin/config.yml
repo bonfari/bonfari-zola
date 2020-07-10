@@ -1,15 +1,25 @@
 backend:
     name: git-gateway
 
-# These lines should *not* be indented
-media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
+# global
+media_library:
+  name: 
+  config:
+    cloud_name: bonfari
+    api_key: 994249357162695
+  output_filename_only: true
+  config:
+    default_transformations:
+      - - fetch_format: auto
+        #   width: 160
+          quality: auto
+          crop: fill
 
 collections:
     - name: "posts" # Used in routes, e.g., /admin/collections/blog
       format: "toml-frontmatter"
       label: "Posts" # Used in the UI
-      folder: "content" # The path to the folder where the documents are stored
+      folder: "content/blog" # The path to the folder where the documents are stored
       create: true # Allow users to create new documents in this collection
       slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
       fields: # The fields for each document, usually in front matter
