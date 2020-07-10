@@ -3,17 +3,17 @@ backend:
 
 # global
 media_library:
-  name: cloudinary
-  config:
-    cloud_name: bonfari
-    api_key: 994249357162695
-  output_filename_only: true
-  config:
-    default_transformations:
-      - - fetch_format: auto
+    name: cloudinary
+    config:
+        cloud_name: bonfari
+        api_key: 994249357162695
+    output_filename_only: true
+    config:
+        default_transformations:
+        - - fetch_format: auto
         #   width: 160
-          quality: auto
-          crop: fill
+            quality: auto
+            crop: fill
 
 collections:
     - name: "posts" # Used in routes, e.g., /admin/collections/blog
