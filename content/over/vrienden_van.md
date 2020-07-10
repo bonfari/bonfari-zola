@@ -1,5 +1,5 @@
 +++
-title = "Vrienden van Bonfari"
+title = "Onze Vrienden"
 weight = 3
 +++
 

@@ -1,7 +1,8 @@
 +++
-title = "Mbemba Kinteh"
-date = 2020-05-08
+title = ""
+weight = 6
 [extra]
-taak = "Adviseur"
-foto = "/img/functies/mbemba.jpg"
+col=2
 +++
+<img class="rounded-circle" width="100%" src="../img/functies/mbemba.jpg" alt="">
+<b>Mbemba</b> - VDC

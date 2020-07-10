@@ -1,10 +1,8 @@
 +++
-title = "Yaya Sonko"
-date = 2020-05-08
+title = ""
+weight = 6
 [extra]
-taak = "Adviseur"
-foto = "/img/functies/yaya.jpg"
+col=2
 +++
-
-![](/img/functies/yaya.jpg)
-
+<img class="rounded-circle" width="100%" src="../img/functies/yaya.jpg" alt="">
+<b>Yaya</b> - VDC

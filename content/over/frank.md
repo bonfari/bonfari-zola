@@ -1,7 +1,8 @@
 +++
-title = "Frank"
-date = 2020-05-08
+title = ""
+weight = 5
 [extra]
-taak = "Adviseur"
-foto = "/img/functies/frank.jpg"
+col=2
 +++
+<img class="rounded-circle" width="100%" src="../img/functies/frank.jpg" alt="">
+<b>Frank</b> - Bestuur

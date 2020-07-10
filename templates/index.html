@@ -80,50 +80,58 @@
   <div class="container">
     <div class="row">
       {% for page in paginator.pages %}
-        <div class="col-lg-4 col-md-10 mx-auto">
-            <h2>{{ page.title }}</h2>
-            {{ page.content | safe }}
-        </div>
+      {% if page.extra.col %}
+      <div class="col-lg-{{page.extra.col}} col-md-12 mx-auto">
+        <h2>{{ page.title }}</h2>
+        {{ page.content | safe }}
+      </div>
+      {% else %}
+      <div class="col-lg-4 col-md-12 mx-auto">
+        <h2>{{ page.title }}</h2>
+        {{ page.content | safe }}
+      </div>
+      {% endif %}
       {% endfor%}
-  </div>
-  {% endblock content %}
+    </div>
+    {% endblock content %}
 
-  <hr>
+    <hr>
 
-  <!-- Footer -->
-  <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <ul class="list-inline text-center">
-            {% for item in config.extra.clean_blog_social %}
-            <li class="list-inline-item">
-              <a href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) }}">
-                <span class="fa-stack fa-lg">
-                  <i class="fas fa-circle fa-stack-2x"></i>
-                  <i class="{{ item.icon }} fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-          <p class="copyright text-muted">{% block copyright %}Copyright &copy; {{ config.title }}
-            {{ now() | date(format="%Y") }}, Adres: Willem van Millenberghstraat 21, Eindhoven, RSIN: 856359828{% endblock copyright %} </p>
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <ul class="list-inline text-center">
+              {% for item in config.extra.clean_blog_social %}
+              <li class="list-inline-item">
+                <a href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="{{ item.icon }} fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+            <p class="copyright text-muted">{% block copyright %}Copyright &copy; {{ config.title }}
+              {{ now() | date(format="%Y") }}, Adres: Willem van Millenberghstraat 21, Eindhoven, RSIN:
+              856359828{% endblock copyright %} </p>
+          </div>
         </div>
       </div>
-    </div>
-  </footer>
+    </footer>
 
-  <!-- Bootstrap core JavaScript -->
-  <script src="{{ get_url(path="js/jquery.min.js") }}"></script>
-  <script src="{{ get_url(path="js/bootstrap.bundle.min.js") }}"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script src="{{ get_url(path="js/jquery.min.js") }}"></script>
+    <script src="{{ get_url(path="js/bootstrap.bundle.min.js") }}"></script>
 
-  <!--Custom scripts for this template-->
-  <script src="{{ get_url(path="js/clean-blog.min.js") }}"></script>
+    <!--Custom scripts for this template-->
+    <script src="{{ get_url(path="js/clean-blog.min.js") }}"></script>
 
-  <!--- Additional scripts -->
-  {% block extrascripts %}
-  {% endblock extrasripts %}
+    <!--- Additional scripts -->
+    {% block extrascripts %}
+    {% endblock extrasripts %}
 </body>
 
 </html>
