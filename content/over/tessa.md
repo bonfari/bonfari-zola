@@ -4,5 +4,5 @@ weight = 5
 [extra]
 col=2
 +++
-<img class="rounded-circle" width="100%" src="../img/functies/tessa.jpg" alt="">
+{{ cloudinary(path="bestuur_vrienden/tessa.jpg", width="300") }}
 <b>Tessa</b> - Bestuur

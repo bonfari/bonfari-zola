@@ -4,5 +4,5 @@ weight = 6
 [extra]
 col=2
 +++
-<img class="rounded-circle" width="100%" src="../img/functies/mbemba.jpg" alt="">
-<b>Mbemba</b> - VDC
+{{ cloudinary(path="bestuur_vrienden/mbemba.jpg", width="300") }}
+<b>Mbemba</b> - Schooldirecteur

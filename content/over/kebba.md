@@ -4,5 +4,5 @@ weight = 6
 [extra]
 col=2
 +++
-<img class="rounded-circle" width="100%" src="../img/functies/kebba.jpg" alt="">
-<b>Kebba</b> - VDC
+{{ cloudinary(path="bestuur_vrienden/kebba.jpg", width="300") }}
+<b>Kebba</b> - Begeleider

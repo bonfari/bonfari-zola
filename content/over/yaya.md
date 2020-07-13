@@ -4,5 +4,5 @@ weight = 6
 [extra]
 col=2
 +++
-<img class="rounded-circle" width="100%" src="../img/functies/yaya.jpg" alt="">
-<b>Yaya</b> - VDC
+{{ cloudinary(path="bestuur_vrienden/yaya.jpg", width="300") }}
+<b>Yaya</b> - Adviseur

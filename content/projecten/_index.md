@@ -1,4 +1,5 @@
 +++
 title = "Projecten"
-paginate_by = 5
+paginate_by = 6
+sort_by = "weight"
 +++
