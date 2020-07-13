@@ -6,7 +6,7 @@ author = "Simon"
 [taxonomies]
 tags = ["Odd"]
 +++
-![](/sample.jpg)
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto/v1594394902/sample.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
