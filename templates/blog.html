@@ -4,6 +4,7 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
+            <h4>Tags</h4>
             <ul>
                 {% set tags = get_taxonomy(kind="tags") %}
                 {% for tag in tags.items %}
@@ -16,7 +17,7 @@
                 {% for page in paginator.pages %}
                 <div class="post-preview">
                     {{ post_macros::page_title(page=page) }}
-                    <p class="post-summary">{{ page.summary | safe }}</p>
+                    <p class="post-summary">{{ page.summary | safe }}<a href="{{ page.permalink }}">Lees verder...</a></p>
                 </div>
                 {% endfor %}
             </div>

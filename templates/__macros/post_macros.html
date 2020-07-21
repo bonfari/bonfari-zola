@@ -4,15 +4,20 @@
     </a>
     {% if page.date %}
         <p class="post-meta">Posted by
-            <a href="#">{{config.extra.author}}</a>
+            {% if page.extra.author %}
+            <a href="{{ get_url(path="/over")}}/{{page.extra.author | lower }}">{{page.extra.author}}
+            {% else %}
+            <a href="#"></a>{{config.extra.author}}
+            {% endif %}
+            </a>
             on {{ page.date | date(format="%e %B %Y")}}</p>
     {% endif %}
 {% endmacro page_list %}
 
 {% macro page_header(page) %}
-<h3>{{ page.title }}</h3>
+<h2>{{ page.title }}</h2>
 <span class="meta">Posted by
-    <a href="#">{{config.extra.author}}</a>
+    <a href="#">{% if page.extra.author %}{{page.extra.author}}{% else %}{{config.extra.author}}{% endif %}</a>
     {% if page.date %}
       on {{ page.date | date(format="%e %B %Y")}}
     {% endif %}
