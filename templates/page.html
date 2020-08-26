@@ -1,20 +1,21 @@
-{% extends "index.html" %}
+{% extends "section.html" %}
 
-{% block header %}
-<!-- Page Header -->
-<header class="masthead" style="background-image: url('{{ get_url(path="/img/home-bg.jpg")}}')">
-  <div class="overlay"></div>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 col-md-12 mx-auto">
-        <div class="post-heading">
-          {{ post_macros::page_header(page=page) }}
-        </div>
-      </div>
-    </div>
-  </div>
-</header>
-{% endblock header %}
+{% block title %}{{ page.title }} - {{ config.title }}{% endblock %}
+
+{% block headertitle %}
+<h1 class="page-heading">{{ page.title }}</h1>
+<span class="meta sub-heading post-heading">Posted by
+  {% if page.extra.author %}
+    <a href="{{ get_url(path="/over")}}/{{page.extra.author | lower }}">{{page.extra.author}}
+    {% else %}
+    <a href="#">{{config.extra.author}}
+    {% endif %}
+    </a>
+    {% if page.date %}
+    on {{ page.date | date(format="%e %B %Y")}}
+    {% endif %}
+</span>
+{% endblock headertitle %}
 
 {% block content %}
 <!-- Post Content -->

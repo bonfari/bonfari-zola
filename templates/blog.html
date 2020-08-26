@@ -16,7 +16,19 @@
             <div class="posts">
                 {% for page in paginator.pages %}
                 <div class="post-preview">
-                    {{ post_macros::page_title(page=page) }}
+                    <a href="{{ page.permalink }}">
+                        <h2 class="post-title">{{ page.title }}</h2>
+                    </a>
+                    {% if page.date %}
+                    <p class="post-meta">Posted by
+                        {% if page.extra.author %}
+                        <a href="{{ get_url(path="/over")}}/{{page.extra.author | lower }}">{{page.extra.author}}
+                            {% else %}
+                            <a href="#"></a>{{config.extra.author}}
+                            {% endif %}
+                        </a>
+                        on {{ page.date | date(format="%e %B %Y")}}</p>
+                    {% endif %}
                     <p class="post-summary">{{ page.summary | safe }}<a href="{{ page.permalink }}">Lees verder...</a></p>
                 </div>
                 {% endfor %}

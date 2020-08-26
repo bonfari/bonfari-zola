@@ -4,13 +4,16 @@
 
 <!-- Page Header -->
 {% block header %}
-<header class="masthead" style="background-image: url('{{ get_url(path="/img/home-bg.jpg")}}')">
+<header class="masthead"
+    style="background-image: url('https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto/v1594670934/header-bg.jpg')">
     <div class="overlay">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-10 mx-auto">
+                {% block headertitle %}
                 <h1 class="page-heading">{{ section.title }}</h1>
+                {% endblock headertitle %}
             </div>
         </div>
     </div>
