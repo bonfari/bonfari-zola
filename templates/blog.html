@@ -1,9 +1,9 @@
 {% extends "section.html" %}
 
 {% block content %}
-<div class="container">
+<div class="container-fluid">
     <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="col-xl-8 col-lg-9 col-md-10 col-sm-11 col-xs-12 mx-auto">
             <h4>Tags</h4>
             <ul>
                 {% set tags = get_taxonomy(kind="tags") %}
@@ -12,7 +12,7 @@
                 {% endfor %}
             </ul>
         </div>
-        <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="col-xl-8 col-lg-9 col-md-10 col-sm-11 col-xs-12 mx-auto">
             <div class="posts">
                 {% for page in paginator.pages %}
                 <div class="post-preview">
