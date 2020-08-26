@@ -1,8 +1,12 @@
 +++
 title = "Value-based Volunteering: Introductie"
 date = 2020-07-21T19:00:26.536Z
+draft = "true"
+
 [taxonomies]
 tags = ["value-based-volunteering"]
+type = ["Blog"]
+
 [extra]
 author = "Rogier"
 +++
