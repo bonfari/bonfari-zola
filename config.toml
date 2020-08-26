@@ -15,7 +15,6 @@ taxonomies = [
 year = "2020"
 author = "Bonfari"
 clean_blog_menu = [
-    {url = "$BASE_URL/help", name = "Help mee!"},
     {url = "$BASE_URL/vrijwilligers", name = "Vrijwilligers"},
     {url = "$BASE_URL/doelvisie", name = "Doel & Visie"},
     {url = "$BASE_URL/projecten", name = "Projecten"},
