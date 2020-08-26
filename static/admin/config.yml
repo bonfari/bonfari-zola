@@ -49,7 +49,7 @@ collections:
                 widget: "object",
                 fields:
                     [
-                        { label: "col", required: false, name: "column", widget: "number", valueType: "int", default: 1, min: 1, max: 12},
+                        { label: "col", required: false, name: "col", widget: "number", valueType: "int", default: 1, min: 1, max: 12},
                     ],
             }
           - {
