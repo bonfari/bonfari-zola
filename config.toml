@@ -9,6 +9,7 @@ highlight_code = true
 
 taxonomies = [
     {name = "tags", rss = true, paginate_by=5},
+    {name = "type", rss = true, paginate_by=5},
 ]
 
 [extra]
