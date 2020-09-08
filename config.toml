@@ -4,7 +4,7 @@ generate_rss = true
 compile_sass = true
 
 title = "Stichting Bonfari"
-description = "Wij faciliteren en ondersteunen effectief vrijwilligerswerk"
+description = "Value-based volunteering"
 highlight_code = true
 
 taxonomies = [
