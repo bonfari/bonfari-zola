@@ -2,12 +2,13 @@
 title = "Bestuur"
 weight = 1
 +++
-Het bestuur werkt op vrijwillige basis en krijgt geen beloning voor geleverd werk.
+Het bestuur werkt op vrijwillige basis en krijgt geen beloning voor geleverd werk. Nobel hoor bestuur!
 <style>
     name_title {
         text-align: center;
     }
 </style>
+
 <div class="row">
     <div class="col-6">
     {{ cloudinary(path="bestuur_vrienden/frank.jpg", width="300", class="rounded-circle") }}
