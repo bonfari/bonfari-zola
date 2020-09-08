@@ -77,17 +77,18 @@
   <!-- Main Content -->
   <div class="container-fluid">
     <div class="row">
-      {% for page in paginator.pages %}
-      {% if page.extra.col %}
-      <div class="col-md-{{page.extra.col}} col-sm-12 mx-auto">
-      {% else %}
-      <div class="col-md-4 col-sm-12 mx-auto">
-      {% endif %}
-        <h2>{{ page.title }}</h2>
-        {{ page.content | safe }}
+      <div class="col-xl-8 col-lg-9 col-md-10 col-sm-11 col-xs-12 mx-auto">
+        <div class="row">
+          {% for page in paginator.pages %}
+          <div class="col-md-{% if page.extra.col %}{{page.extra.col}}{% else %}4{% endif %} col-sm-12 mx-auto">
+            <h2>{{ page.title }}</h2>
+            {{ page.content | safe }}
+          </div>
+          {% endfor%}
+        </div>
       </div>
-      {% endfor%}
     </div>
+  </div>
     {% endblock content %}
 
     <hr>
