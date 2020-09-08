@@ -1,5 +1,5 @@
 +++
-title = "Lokale Partners"
+title = "Vrienden"
 weight = 2
 +++
 
