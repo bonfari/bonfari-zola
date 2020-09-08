@@ -5,6 +5,7 @@ weight = 2
 
 Wij proberen ieder project in samenspraak met het Village Development Committee (VDC) te bepalen.
 
+
 <div class="row">
     <div class="col-6">
     {{ cloudinary(path="bestuur_vrienden/kebba.jpg", width="300", class="rounded-circle") }}
