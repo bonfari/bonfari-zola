@@ -1,6 +1,7 @@
 +++
 title = "Efficiënt gebruik middelen"
 weight = 1
+draft = true
 [extra]
 col=4
 +++

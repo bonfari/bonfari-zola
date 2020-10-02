@@ -1,6 +1,8 @@
 +++
 title = "Continuïteit"
 weight = 3
+draft = true
+
 [extra]
 col=4
 +++

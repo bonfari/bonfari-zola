@@ -1,6 +1,7 @@
 +++
 title = "Financiën"
 weight = 3
+draft = true
 [extra]
 col=4
 +++

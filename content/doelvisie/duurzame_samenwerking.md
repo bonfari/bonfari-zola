@@ -1,6 +1,7 @@
 +++
 title = "Duurzame samenwerking"
 weight = 1
+draft = true
 [extra]
 col=4
 +++
