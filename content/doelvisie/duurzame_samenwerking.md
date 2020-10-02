@@ -1,5 +1,5 @@
 +++
-title = "Duurzame samenwerking"
+title = "Samenwerking"
 weight = 1
 draft = true
 [extra]

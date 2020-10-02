@@ -1,5 +1,5 @@
 +++
-title = "Efficiënt gebruik middelen"
+title = "Efficiëntie"
 weight = 1
 draft = true
 [extra]
