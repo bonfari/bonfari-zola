@@ -4,44 +4,61 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-xl-8 col-lg-9 col-md-10 col-sm-11 col-xs-12 mx-auto">
-            <h4>Tags</h4>
-            <ul>
-                {% set tags = get_taxonomy(kind="tags") %}
-                {% for tag in tags.items %}
-                <li><a href="{{ tag.permalink }}">{{ tag.name }}</a></li>
-                {% endfor %}
-            </ul>
-        </div>
-        <div class="col-xl-8 col-lg-9 col-md-10 col-sm-11 col-xs-12 mx-auto">
-            <div class="posts">
-                {% for page in paginator.pages %}
-                <div class="post-preview">
-                    <a href="{{ page.permalink }}">
-                        <h2 class="post-title">{{ page.title }}</h2>
-                    </a>
-                    {% if page.date %}
-                    <p class="post-meta">Posted by
-                        {% if page.extra.author %}
-                        <a href="{{ get_url(path="/over")}}/{{page.extra.author | lower }}">{{page.extra.author}}
-                            {% else %}
-                            <a href="#"></a>{{config.extra.author}}
+            <div class="row">
+                <div class="col-10">
+                    <div class="posts">
+                        {% for page in paginator.pages %}
+                        <div class="post-preview">
+                            <a href="{{ page.permalink }}">
+                                <h2 class="post-title">{{ page.title }}</h2>
+                            </a>
+                            {% if page.date %}
+                            <p class="post-meta">Posted by
+                                {% if page.extra.author %}
+                                <a href="{{ get_url(path="/over")}}">{{page.extra.author}}
+                                    {% else %}
+                                    <a href="#"></a>{{config.extra.author}}
+                                    {% endif %}
+                                </a>
+                                on {{ page.date | date(format="%e %B %Y")}}
+                                <br>
+                                {% if page.taxonomies.tags %}
+                                Tags:
+                                {% for tag in page.taxonomies.tags %}
+                                <a href="{{ get_taxonomy_url(kind="tags", name=tag) }}">#{{ tag }}</a>
+                                {% endfor %}
+                                {% endif %}
+                            </p>
                             {% endif %}
-                        </a>
-                        on {{ page.date | date(format="%e %B %Y")}}</p>
-                    {% endif %}
-                    <p class="post-summary">{{ page.summary | safe }}<a href="{{ page.permalink }}">Lees verder...</a></p>
+
+
+                            <p class="post-summary">{{ page.summary | safe }}<a href="{{ page.permalink }}">Lees
+                                    verder...</a></p>
+                        </div>
+                        {% endfor %}
+                    </div>
+
+                    <!-- Paginator -->
+                    <div class="clearfix">
+                        {% if paginator.previous %}
+                        <a class="btn btn-primary float-left" href="{{ paginator.previous }}"> &larr; Newer Posts</a>
+                        {% endif %}
+                        {% if paginator.next %}
+                        <a class="btn btn-primary float-right" href="{{ paginator.next }}">Older Posts &rarr;</a>
+                        {% endif %}
+                    </div>
                 </div>
-                {% endfor %}
-            </div>
-        
-            <!-- Paginator -->
-            <div class="clearfix">
-                {% if paginator.previous %}
-                <a class="btn btn-primary float-left" href="{{ paginator.previous }}"> &larr; Newer Posts</a>
-                {% endif %}
-                {% if paginator.next %}
-                <a class="btn btn-primary float-right" href="{{ paginator.next }}">Older Posts &rarr;</a>
-                {% endif %}
+                <div class="col-2">
+                    <a>
+                        <h2>Tags</h2>
+                    </a>
+                    <ul>
+                        {% set tags = get_taxonomy(kind="tags") %}
+                        {% for tag in tags.items %}
+                        <li><a href="{{ tag.permalink }}">{{ tag.name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
             </div>
         </div>
     </div>

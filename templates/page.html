@@ -4,25 +4,29 @@
 
 {% block headertitle %}
 <h1 class="page-heading">{{ page.title }}</h1>
-<span class="meta sub-heading post-heading">Posted by
-  {% if page.extra.author %}
-    <a href="{{ get_url(path="/over")}}/{{page.extra.author | lower }}">{{page.extra.author}}
-    {% else %}
-    <a href="#">{{config.extra.author}}
-    {% endif %}
-    </a>
-    {% if page.date %}
-    on {{ page.date | date(format="%e %B %Y")}}
-    {% endif %}
-</span>
+
 {% endblock headertitle %}
 
 {% block content %}
 <!-- Post Content -->
 <article>
+
   <div class="container-fluid">
     <div class="row">
       <div class="col-xl-8 col-lg-9 col-md-10 col-sm-11 col-xs-12 mx-auto">
+        <span class="meta sub-heading post-heading">
+          <p>Posted by
+            {% if page.extra.author %}
+            <a href="{{ get_url(path="/over")}}/{{page.extra.author | lower }}">{{page.extra.author}}
+              {% else %}
+              <a href="#">{{config.extra.author}}
+                {% endif %}
+              </a>
+              {% if page.date %}
+              on {{ page.date | date(format="%e %B %Y")}}
+              {% endif %}
+          </p>
+        </span>
         {{ page.content | safe }}
         {% if page.taxonomies.tags %}
         <div class="post-tags">

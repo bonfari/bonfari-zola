@@ -1,20 +1,16 @@
 +++
 title = "Hallo Tintinto"
 date = 2020-10-05T11:42:21.550Z
-draft = true
+draft = false
 
 [taxonomies]
-type = ["Blog"]
+type = ["financien"]
 tags = ["ervaring vrijwilliger"]
 
 [extra]
 author = "Simon"
 +++
-<!--StartFragment-->
-
-**Hallo Tintinto**
-
-Om tien uur 's avonds zet ik op het vliegveld van Banjul mijn eerste stap op Afrikaanse grond. Het avontuur begint! In de aankomsthal van het vliegveld staat onze lokale adviseur Yaya al op me te wachten. Na een soepele rit deels over asfalt en deels over hobbelige zandpaden komen we bij het huis van Yaya’s familie aan. De eerste nacht zal ik hier verblijven, omdat het te laat is om nog naar het huisje in Tintinto door te rijden. Nadat ik kennis heb gemaakt met de familie Sonko, krijg ik nog een lekkere maaltijd met vis. Na het eten volgt een poging om in slaap te komen, al blijkt dit een aardige uitdaging bij 30 graden en 80% luchtvochtigheid.
+Om tien uur 's avonds zet ik op het vliegveld van Banjul mijn eerste stap op Afrikaanse grond. Het avontuur begint! In de aankomsthal van het vliegveld staat onze lokale adviseur Yaya al op me te wachten. Na een soepele rit deels over asfalt en deels over hobbelige zandpaden komen we bij het huis van Yaya’s familie aan. De eerste nacht zal ik hier verblijven, omdat het te laat is om nog naar het huisje in Tintinto door te rijden. Nadat ik kennis heb gemaakt met de familie Sonko, krijg ik nog een lekkere maaltijd met vis. Na het eten volgt een poging om in slaap te komen, al blijkt dit een aardige uitdaging bij 30 graden en 80% luchtvochtigheid.<!-- more -->
 
 De volgende dag gaan we naar het compound in Tintinto, waar ik de komende 4 maanden zal wonen. Hier ontmoet ik Kebe, die met zijn familie op het compound woont en als landopzichter fungeert. De spullen die normaal gesproken opgeborgen liggen worden uitgestald: een luchtbed en een matje worden gecombineerd tot het bed en de keuken wordt ingericht met pannen, servies en een gaspit. Om de badkamer klaar te maken zetten we het bad (een speciekuib) op het dak, hier zal ik me de komende vier maanden in wassen. Tijdens het klaarzetten van de speciekuip komen we een slang. Gelukkig heeft Kebe deze snel overmeesterd. Na mijn eerste pogingen om te douchen met een paar emmers water, merk ik dat ik nog erg moet wennen aan de warmte en ga ik maar slapen.
 
