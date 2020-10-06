@@ -1,6 +1,7 @@
 +++
 title = "Transparantie"
 weight = 1
+draft = true
 [extra]
 col=4
 +++
