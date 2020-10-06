@@ -69,14 +69,12 @@ col=12
                     <i class="fa fa-euro-sign fa-stack-1x fa-inverse"></i>
                 </span>
                 <h4 >Financiën</h4>
-                <p class="text-justify">Wij hebben geen geheime (financiële) motieven, en proberen met alles wat we doen ons doel na te streven. Daarom doen wij onze boekhouding online, en heeft iedereen die dit wil hier inzicht in. Hier zijn onze jaarverslagen van <a href="https://drive.google.com/file/d/0B_1i60BlJan-enJuSVVkSWFYWm8/view?usp=sharing">2016</a> en <a href="https://drive.google.com/file/d/1FnsAE0ZVgE6eSsURm3SiVim4ryu1R1At/view?usp=sharing">2017</a>.</p>
+                <p class="text-justify">Wij hebben geen geheime (financiële) motieven, en proberen met alles wat we doen ons doel na te streven. Daarom doen wij onze boekhouding online, en heeft iedereen die dit wil hier inzicht in. Hier zijn onze jaarverslagen van <a href="https://drive.google.com/file/d/0B_1i60BlJan-enJuSVVkSWFYWm8/view">2016</a>, <a href="https://drive.google.com/file/d/1FnsAE0ZVgE6eSsURm3SiVim4ryu1R1At/view">2017</a> en <a href="https://drive.google.com/file/d/1tmt5PrSUQDyaRB45OwQetiY2-sPnYdSd/view">2018</a>.</p>
                 <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal">Open boekhouding</a>
             </div>
         </div>
     </div>
 </section>
-<!-- <h4 class="section-subheading text-muted">KANSEN CREËREN VOOR KANSARMEN IN DE MINST ONTWIKKELDE LANDEN OP AARDE</h4> -->
-
 
 
 
