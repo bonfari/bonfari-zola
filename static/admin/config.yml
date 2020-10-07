@@ -41,7 +41,7 @@ collections:
                 name: "extra",
                 fields:
                     [
-                        { label: "author", name: "author", valueType: "string"},
+                        { label: "author", name: "author", widget: "string", default: "Stichting Bonfari"},
                     ],
             }
           - { label: "Body", name: "body", widget: "markdown" }
@@ -61,7 +61,7 @@ collections:
                 fields:
                     [
                         { label: "col", name: "col", widget: "hidden", valueType: "int", default: 4},
-                        { label: "author", name: "author", valueType: "string"},
+                        { label: "author", name: "author", widget: "string", default: "Stichting Bonfari"},
                     ],
             }
           - { label: "Body", name: "body", widget: "markdown" }
