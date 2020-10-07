@@ -4,7 +4,7 @@ date = 2020-10-05T11:42:21.550Z
 draft = true
 
 [taxonomies]
-type = ["Blog"]
+type = ["financien"]
 tags = ["ervaring vrijwilliger"]
 
 [extra]

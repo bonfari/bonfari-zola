@@ -5,5 +5,7 @@ draft = false
 
 [extra]
 col = 4
+author = "Stichting Bonfari"
+
 +++
 hahaha

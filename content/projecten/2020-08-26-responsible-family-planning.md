@@ -5,9 +5,12 @@ draft = false
 
 [extra]
 col = 4
+author = "Stichting Bonfari"
 
 [taxonomies]
 tags = ["Blog"]
+
+
 +++
 {{ cloudinary(path="amadouxl", width="300", opts="ar_3:2") }}
 
