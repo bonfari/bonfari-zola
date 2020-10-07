@@ -1,6 +1,6 @@
 +++
 title = "Projecten"
-paginate_by = 6
-template = "blog.html"
+paginate_by = 5
+template = "project.html"
 sort_by = "date"
 +++
