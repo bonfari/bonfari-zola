@@ -39,7 +39,6 @@ collections:
           - {
                 label: "Extra",
                 name: "extra",
-                widget: "hidden",
                 fields:
                     [
                         { label: "author", name: "author", valueType: "string"},
@@ -59,7 +58,6 @@ collections:
           - {
                 label: "Extra",
                 name: "extra",
-                widget: "hidden",
                 fields:
                     [
                         { label: "col", name: "col", widget: "hidden", valueType: "int", default: 4},
