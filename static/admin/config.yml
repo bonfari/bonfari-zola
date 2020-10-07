@@ -64,6 +64,7 @@ collections:
                     [
                         { label: "col", name: "col", widget: "hidden", valueType: "int", default: 4},
                         { label: "author", name: "author", widget: "string", default: "Stichting Bonfari", required: True},
+                        { label: "image", name: "image", widget: "string", default: "sun", required: True},
                     ],
             }
           - { label: "Body", name: "body", widget: "markdown" }

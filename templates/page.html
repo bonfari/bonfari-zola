@@ -27,6 +27,16 @@
               {% endif %}
           </p>
         </span>
+
+        {% if page.extra.image %}
+        <div class="d-flex justify-content-center">
+          <a href="{{ page.permalink }}">
+            <img {% if class %}class="{{class}}" {% endif %} width="100%"
+              src="https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768,ar_3:2/v1594394902/{{page.extra.image}}"
+              alt="{{page.extra.image}}">
+          </a>
+        </div>
+        {% endif %}
         {{ page.content | safe }}
         {% if page.taxonomies.tags %}
         <div class="post-tags">

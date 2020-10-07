@@ -6,10 +6,9 @@ draft = false
 [extra]
 col = 4
 author = "Stichting Bonfari"
+image = "amadouxl"
 +++
-![](https://res.cloudinary.com/bonfari/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/c_fill,f_auto,q_auto,w_768/v1594672162/amadouxl.jpg)
-
-<p class="text-justify" style="white-space: pre-wrap">Susan van der Ploeg heeft dit project opgezet. Zij werkt hierin samen met Bonfari. In het onderstaande stuk legt zij uit wat zij binnen dit project doet en wat de doelen van het project zijn.</p> <!-- more -->
+<p class="text-justify" style="white-space: pre-wrap">Susan van der Ploeg heeft dit project opgezet. Zij werkt hierin samen met Bonfari. In het onderstaande stuk legt zij uit wat zij binnen dit project doet en wat de doelen van het project zijn.</p>
 
 **Introductie**
 
