@@ -36,6 +36,15 @@ collections:
                         { label: "tags", name: "tags", widget: "list"},
                     ],
             }
+          - {
+                label: "Extra",
+                name: "extra",
+                widget: "hidden",
+                fields:
+                    [
+                        { label: "author", name: "author", valueType: "string"},
+                    ],
+            }
           - { label: "Body", name: "body", widget: "markdown" }
     - name: "projecten" # Used in routes, e.g., /admin/collections/blog
       format: "toml-frontmatter"
@@ -54,6 +63,7 @@ collections:
                 fields:
                     [
                         { label: "col", name: "col", widget: "hidden", valueType: "int", default: 4},
+                        { label: "author", name: "author", valueType: "string"},
                     ],
             }
           - { label: "Body", name: "body", widget: "markdown" }
