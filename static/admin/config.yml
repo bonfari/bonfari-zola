@@ -39,9 +39,10 @@ collections:
           - {
                 label: "Extra",
                 name: "extra",
+                widget: "object",
                 fields:
                     [
-                        { label: "author", name: "author", widget: "string", default: "Stichting Bonfari"},
+                        { label: "author", name: "author", widget: "string", default: "Stichting Bonfari", required: True},
                     ],
             }
           - { label: "Body", name: "body", widget: "markdown" }
@@ -58,10 +59,11 @@ collections:
           - {
                 label: "Extra",
                 name: "extra",
+                widget: "object",
                 fields:
                     [
                         { label: "col", name: "col", widget: "hidden", valueType: "int", default: 4},
-                        { label: "author", name: "author", widget: "string", default: "Stichting Bonfari"},
+                        { label: "author", name: "author", widget: "string", default: "Stichting Bonfari", required: True},
                     ],
             }
           - { label: "Body", name: "body", widget: "markdown" }
