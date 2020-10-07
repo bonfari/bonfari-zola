@@ -10,7 +10,7 @@ tags = ["offerfeest"]
 [extra]
 author = "Simon"
 +++
-In Gambia is veruit de grootste religie de Islam, er schijnen ook Christenen te zijn, maar die heb ik nog niet gezien. De meeste mensen die ik hier ken gaan netjes 5x per dag naar de Moskee. Het is dan ook niet verrassend dat de islamitische feestdagen het grootst gevierd worden.
+In Gambia is veruit de grootste religie de Islam, er schijnen ook Christenen te zijn, maar die heb ik nog niet gezien. De meeste mensen die ik hier ken gaan netjes 5x per dag naar de Moskee. Het is dan ook niet verrassend dat de islamitische feestdagen het grootst gevierd worden.<!-- more -->
 
 **Offerfeest**
 
