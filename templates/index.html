@@ -57,7 +57,8 @@
 
   <!-- Page Header -->
   {% block header %}
-  <header class="masthead" style="background-image: url('https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto/v1594670934/header-bg.jpg')">
+  <header class="masthead"
+    style="background-image: url('https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto/v1594670934/header-bg.jpg')">
     <div class="overlay">
     </div>
     <div class="container-fluid">
@@ -66,11 +67,15 @@
           <div class="site-heading">
             <h1>{{config.title}}</h1>
             <span class="subheading">{{config.description}}</span>
-          </br></br></br>
-            <h5 class="text-center font-weight-light">Welkom op de website van Stiching Bonfari! Wij zijn ervan overtuigd dat
-              vrijwilligerswerk beter kan. Dit onderbouwen wij in onze visie: Value-Based Volunteering. Deze visie proberen wij na
-              te leven in alles wat we als stichting doen, vooral onze projecten in Gambia. Op deze website vind je meer informatie
-              over onze visie, stichting en projecten. Wil je ons steunen als donateur of vrijwilliger? Lees dan hieronder verder.
+            </br></br></br>
+            <h5 class="text-center font-weight-light">Welkom op de website van Stiching Bonfari! Wij zijn ervan
+              overtuigd dat
+              vrijwilligerswerk beter kan. Dit onderbouwen wij in onze visie: Value-Based Volunteering. Deze visie
+              proberen wij na
+              te leven in alles wat we als stichting doen, vooral onze projecten in Gambia. Op deze website vind je meer
+              informatie
+              over onze visie, stichting en projecten. Wil je ons steunen als donateur of vrijwilliger? Lees dan
+              hieronder verder.
             </h5>
           </div>
         </div>
@@ -95,9 +100,9 @@
       </div>
     </div>
   </div>
-    {% endblock content %}
+  {% endblock content %}
 
-    <hr>
+  <hr>
 
     <!-- Footer -->
     <footer>
@@ -116,7 +121,7 @@
               </li>
               {% endfor %}
             </ul>
-          <p class="copyright"></p>
+          <p class="copyright">
             <div id="mc_embed_signup">
               <form action="//bonfari.us13.list-manage.com/subscribe/post?u=8fcd97d6b4c64a30cde8f37e0&amp;id=c05f33eaf2"
                 method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
@@ -143,18 +148,19 @@
           </div>
         </div>
       </div>
-    </footer>
+    </div>
+  </footer>
 
-    <!-- Bootstrap core JavaScript -->
-    <script src="{{ get_url(path="js/jquery.min.js") }}"></script>
-    <script src="{{ get_url(path="js/bootstrap.bundle.min.js") }}"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script src="{{ get_url(path="js/jquery.min.js") }}"></script>
+  <script src="{{ get_url(path="js/bootstrap.bundle.min.js") }}"></script>
 
-    <!--Custom scripts for this template-->
-    <script src="{{ get_url(path="js/clean-blog.min.js") }}"></script>
+  <!--Custom scripts for this template-->
+  <script src="{{ get_url(path="js/clean-blog.min.js") }}"></script>
 
-    <!--- Additional scripts -->
-    {% block extrascripts %}
-    {% endblock extrasripts %}
+  <!--- Additional scripts -->
+  {% block extrascripts %}
+  {% endblock extrasripts %}
 </body>
 
 </html>

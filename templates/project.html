@@ -24,10 +24,18 @@
                                         </a>
                                         on {{ page.date | date(format="%e %B %Y")}}</p>
                                     {% endif %}
-                                    <p class="post-summary"><a
-                                            href="{{ page.permalink }}">{{ page.summary | safe }}</a><a
+                                    <p class="post-summary">
+                                        {% if page.extra.image %}
+                                        <a href="{{ page.permalink }}">
+                                            <img {% if class %}class="{{class}}" {% endif %} width="100%"
+                                                src="https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_300,ar_3:2/v1594394902/{{page.extra.image}}"
+                                                alt="{{page.extra.image}}">
+                                        </a>
+                                        {% else %}
+                                        <a href="{{ page.permalink }}">{{ page.summary | safe }} </a><a
                                             href="{{ page.permalink }}">Lees
                                             verder...</a></p>
+                                    {% endif %}
                                 </div>
                             </div>
                             {% endfor %}
