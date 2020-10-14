@@ -57,7 +57,8 @@
 
   <!-- Page Header -->
   {% block header %}
-  <header class="masthead" style="background-image: url('https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto/v1594670934/header-bg.jpg')">
+  <header class="masthead"
+    style="background-image: url('https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto/v1594670934/header-bg.jpg')">
     <div class="overlay">
     </div>
     <div class="container-fluid">
@@ -66,11 +67,15 @@
           <div class="site-heading">
             <h1>{{config.title}}</h1>
             <span class="subheading">{{config.description}}</span>
-          </br></br></br>
-            <h5 class="text-center font-weight-light">Welkom op de website van Stiching Bonfari! Wij zijn ervan overtuigd dat
-              vrijwilligerswerk beter kan. Dit onderbouwen wij in onze visie: Value-Based Volunteering. Deze visie proberen wij na
-              te leven in alles wat we als stichting doen, vooral onze projecten in Gambia. Op deze website vind je meer informatie
-              over onze visie, stichting en projecten. Wil je ons steunen als donateur of vrijwilliger? Lees dan hieronder verder.
+            </br></br></br>
+            <h5 class="text-center font-weight-light">Welkom op de website van Stiching Bonfari! Wij zijn ervan
+              overtuigd dat
+              vrijwilligerswerk beter kan. Dit onderbouwen wij in onze visie: Value-Based Volunteering. Deze visie
+              proberen wij na
+              te leven in alles wat we als stichting doen, vooral onze projecten in Gambia. Op deze website vind je meer
+              informatie
+              over onze visie, stichting en projecten. Wil je ons steunen als donateur of vrijwilliger? Lees dan
+              hieronder verder.
             </h5>
           </div>
         </div>
@@ -95,45 +100,45 @@
       </div>
     </div>
   </div>
-    {% endblock content %}
+  {% endblock content %}
 
-    <hr>
+  <hr>
 
-    <!-- Footer -->
-    <footer>
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-lg-8 col-md-10 mx-auto">
-            <ul class="list-inline text-center">
-              {% for item in config.extra.clean_blog_social %}
-              <li class="list-inline-item">
-                <a href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="{{ item.icon }} fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              {% endfor %}
-            </ul>
-            <p class="copyright text-muted">{% block copyright %}Copyright &copy; {{ config.title }}
-              {{ now() | date(format="%Y") }}, Adres: Willem van Millenberghstraat 21, Eindhoven, RSIN:
-              856359828{% endblock copyright %} </p>
-          </div>
+  <!-- Footer -->
+  <footer>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+            {% for item in config.extra.clean_blog_social %}
+            <li class="list-inline-item">
+              <a href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) }}">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="{{ item.icon }} fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+          <p class="copyright text-muted">{% block copyright %}Copyright &copy; {{ config.title }}
+            {{ now() | date(format="%Y") }}, Adres: Willem van Millenberghstraat 21, Eindhoven, RSIN:
+            856359828{% endblock copyright %} </p>
         </div>
       </div>
-    </footer>
+    </div>
+  </footer>
 
-    <!-- Bootstrap core JavaScript -->
-    <script src="{{ get_url(path="js/jquery.min.js") }}"></script>
-    <script src="{{ get_url(path="js/bootstrap.bundle.min.js") }}"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script src="{{ get_url(path="js/jquery.min.js") }}"></script>
+  <script src="{{ get_url(path="js/bootstrap.bundle.min.js") }}"></script>
 
-    <!--Custom scripts for this template-->
-    <script src="{{ get_url(path="js/clean-blog.min.js") }}"></script>
+  <!--Custom scripts for this template-->
+  <script src="{{ get_url(path="js/clean-blog.min.js") }}"></script>
 
-    <!--- Additional scripts -->
-    {% block extrascripts %}
-    {% endblock extrasripts %}
+  <!--- Additional scripts -->
+  {% block extrascripts %}
+  {% endblock extrasripts %}
 </body>
 
 </html>

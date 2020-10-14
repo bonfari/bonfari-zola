@@ -32,7 +32,7 @@
                             {% endif %}
 
 
-                            <p class="post-summary">{{ page.summary | safe }}<a href="{{ page.permalink }}">Lees
+                            <p class="post-summary">{{ page.summary | safe }} <a href="{{ page.permalink }}">Lees
                                     verder...</a></p>
                         </div>
                         {% endfor %}
@@ -54,6 +54,7 @@
                     </a>
                     <ul>
                         {% set tags = get_taxonomy(kind="tags") %}
+                        <li><a href="/blog/">alles</a></li>
                         {% for tag in tags.items %}
                         <li><a href="{{ tag.permalink }}">{{ tag.name }}</a></li>
                         {% endfor %}
