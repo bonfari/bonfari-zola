@@ -22,8 +22,8 @@ Net als rond kerst en oud en nieuw in Nederland is in Gambia rond Tobaski iedere
 
 De familie die op hetzelfde compound als ik woont had helaas een financiële tegenvaller gehad, waardoor ze geen geld voor een dier hadden. Ik merkte uit gesprekken met anderen dat de families die geen eigen dier hebben zich meestal erg schamen, dit is een erg belangrijk onderdeel van een erg belangrijke dag. De familie hier zorgt al een maand heel goed voor me, daarom heb ik voor deze keer geld voorgeschoten om een geit te kopen, hierdoor kon ik zelf ook alle festiviteiten (en rituelen) meemaken.
 
-![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1598465948/header-bg.jpg "levende geit")
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101342/blog/blog4_1.jpg "levende geit")
 
 Op de dag zelf werd dus onze geit geslacht en hebben we er van alles van gegeten: darmen, lever, maag en de normalere stukken vlees. De volgende dagen konden we er ook nog van eten, eindigend met het kaalgeschoren hoofd en de inhoud daarvan. Al met al was het een hele ervaring! Doordat de festiviteiten in heel het land nog een paar dagen doorgingen, is zelfs de eerste schoolweek een week naar achteren geschoven. De voorbereidingen voor het openen van het schooljaar zijn in volle gang, ik hou jullie op de hoogte van de vorderingen!
 
-![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1598465948/header-bg.jpg "gebakken geit")
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101342/blog/blog4_2.jpg "gebakken geit")
