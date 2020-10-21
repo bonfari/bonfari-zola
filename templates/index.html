@@ -104,50 +104,63 @@
 
   <hr>
 
-    <!-- Footer -->
-    <footer>
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-lg-8 col-md-10 mx-auto">
-            <ul class="list-inline text-center">
-              {% for item in config.extra.clean_blog_social %}
-              <li class="list-inline-item">
-                <a href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="{{ item.icon }} fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              {% endfor %}
-            </ul>
-          <p class="copyright">
-            <div id="mc_embed_signup">
-              <form action="//bonfari.us13.list-manage.com/subscribe/post?u=8fcd97d6b4c64a30cde8f37e0&amp;id=c05f33eaf2"
-                method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
-                novalidate="">
-                <div id="mc_embed_signup_scroll" class="input-group">
-                  <!-- https://www.w3schools.com/Bootstrap/bootstrap_forms_inputs2.asp -->
-                  <!-- <label for="mce-EMAIL">Wil je onze nieuwsbrief ontvangen?</label> -->
-                  <span class="input-group-addon">Wil je onze nieuwsbrief ontvangen?</span>
-                  <input style="margin-left: 15px" type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="emailadres" required="" />
-                  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                  <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                    <input type="text" name="b_8fcd97d6b4c64a30cde8f37e0_c05f33eaf2" tabindex="-1" value="" />
-                  </div>
-                  <div class="input-group-btn">
-                  <input type="submit" value="Inschrijven" name="subscribe" id="mc-embedded-subscribe" class="btn btn-secondary" />
-                  </div>
-                </div>
-              </form>
+  <!-- Footer -->
+  <footer>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="row">
+            <div class="col mx-auto">
+              <ul class="list-inline text-center">
+                {% for item in config.extra.clean_blog_social %}
+                <li class="list-inline-item">
+                  <a href="{{ item.url | replace(from="$BASE_URL", to=config.base_url) }}">
+                    <span class="fa-stack fa-lg">
+                      <i class="fas fa-circle fa-stack-2x"></i>
+                      <i class="{{ item.icon }} fa-stack-1x fa-inverse"></i>
+                    </span>
+                  </a>
+                </li>
+                {% endfor %}
+              </ul>
             </div>
-            <div class="text-muted">
-            {% block copyright %}Copyright &copy; {{ config.title }}
-              {{ now() | date(format="%Y") }}, Adres: Willem van Millenberghstraat 21, Eindhoven, RSIN:
-              856359828{% endblock copyright %} </div></p>
+          </div>
+          <br>
+          <div class="row">
+            <div class="col-10 mx-auto">
+              <div id="mc_embed_signup">
+                <form class="form-inline"
+                  action="//bonfari.us13.list-manage.com/subscribe/post?u=8fcd97d6b4c64a30cde8f37e0&amp;id=c05f33eaf2"
+                  method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+                  target="_blank" novalidate="">
+                  <div class="col-8">
+                    <input type="email" style="width:100%" class="form-control" id="mce-EMAIL"
+                      placeholder="Nieuwsbrief ontvangen? Vul dan hier jouw e-mail in." required="">
+                  </div>
+                  <div class="col">
+                    <div hidden style="position: absolute; left: -5000px;" aria-hidden="true">
+                      <input type="text" name="b_8fcd97d6b4c64a30cde8f37e0_c05f33eaf2" tabindex="-1" value="" />
+                    </div>
+                    <button type="submit" style="width:100%" value="Inschrijven" name="subscribe"
+                      id="mc-embedded-subscribe" class="btn btn-secondary">INSCHRIJVEN</button>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col mx-auto">
+              <p class="copyright">
+              <div class="text-muted text-center">
+                {% block copyright %}Copyright &copy; {{ config.title }}
+                {{ now() | date(format="%Y") }}, Adres: Willem van Millenberghstraat 21, Eindhoven, RSIN:
+                856359828{% endblock copyright %} </div>
+              </p>
+            </div>
           </div>
         </div>
       </div>
+    </div>
     </div>
   </footer>
 
