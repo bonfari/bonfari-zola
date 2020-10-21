@@ -8,8 +8,9 @@ description = "Value-based volunteering"
 highlight_code = true
 
 taxonomies = [
-    {name = "tags", rss = true, paginate_by=5},
-    {name = "type", rss = true, paginate_by=5},
+    {name = "tags", rss = false, paginate_by=5},
+    {name = "type", rss = false, paginate_by=5},
+    {name = "project", rss = false, paginate_by=5},
 ]
 
 [extra]

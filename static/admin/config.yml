@@ -32,7 +32,7 @@ collections:
                 fields:
                     [
                         { label: "type", name: "type", widget: "select", multiple: true, min: 1, max: 3, options: ["Blog", "Financiën", "Project"], default: ["Blog"]},
-                        { label: "project", name: "project", widget: "relation", collection: "projecten", searchFields: ["title"], valueField: "title", required: false},
+                        { label: "project", name: "project", widget: "relation", multiple: true, collection: "projecten", searchFields: ["title"], valueField: "title", required: false},
                         { label: "tags", name: "tags", widget: "list", required: false},
                     ],
             }
