@@ -5,42 +5,39 @@
     <div class="row">
         <div class="col-xl-8 col-lg-9 col-md-10 col-sm-11 col-xs-12 mx-auto">
             <div class="row">
-                <div class="col-10">
-                    <div class="posts">
+                <div class="col">
+                    <div class="post" id="portfolio">
                         <div class="row">
                             {% for page in paginator.pages %}
                             <div class="col-4  portfolio-item">
-                                <!-- <div class="post-preview"> -->
-                                <a href="{{ page.permalink }}">
-                                    <h2 class="post-title">{{ page.title }}</h2>
-                                </a>
-                                {% if page.date %}
-                                <p class="post-meta">Posted by
-                                    {% if page.extra.author %}
-                                    <a href="{{ get_url(path="/over")}}/{{page.extra.author | lower }}">{{page.extra.author}}
-                                        {% else %}
-                                        <a href="#"></a>{{config.extra.author}}
-                                        {% endif %}
-                                    </a>
-                                    on {{ page.date | date(format="%e %B %Y")}}</p>
-                                {% endif %}
-                                <p class="post-summary">
-                                    {% if page.extra.image %}
-                                    <a href="{{ page.permalink }}">
+                                <a href="{{ page.permalink }}" class="portfolio-link p-0">
+                                    <div class="post-summary">
                                         <div class="portfolio-hover">
                                             <div class="portfolio-hover-content"><i class="fa fa-arrows-alt fa-3x"></i>
                                             </div>
-                                            <img {% if class %}class="{{class}}" {% endif %} width="100%"
-                                                src="https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_300,ar_3:2/{% if page.extra.afgerond %}l_text:arial_55_bold:AFGEROND,co_rgb:BEBEBE,o_75,a_30/{% endif %}v1594394902/{{page.extra.image}}"
-                                                alt="{{page.extra.image}}">
                                         </div>
-                                    </a>
-                                    {% else %}
-                                    <a href="{{ page.permalink }}">{{ page.summary | safe }} </a><a
-                                        href="{{ page.permalink }}">Lees
-                                        verder...</a></p>
-                                {% endif %}
-                                <!-- </div> -->
+                                        {% if page.extra.image %}
+                                        <img {% if class %}class="{{class}}" {% endif %}
+                                            src="https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_300,ar_3:2/{% if page.extra.afgerond %}l_text:arial_55_bold:AFGEROND,co_rgb:BEBEBE,o_75,a_30/{% endif %}v1594394902/{{page.extra.image}}"
+                                            alt="{{page.extra.image}}" width="100%" height="180">
+                                        {% else %}
+                                        <a href="{{ page.permalink }}">{{ page.summary | safe }} </a><a
+                                            href="{{ page.permalink }}">Lees
+                                            verder...</a>
+                                        {% endif %}
+                                    </div>
+                                </a>
+                                <div class="portfolio-caption p-0">
+                                    <div class="post-preview">
+                                        {% if page.date %}
+
+                                        <div class="post-meta">{{ page.date | date(format="%e %B %Y")}}</div>
+                                        {% endif %}
+                                        <a href="{{ page.permalink }}">
+                                            <h4>{{ page.title }}</h4>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                             {% endfor %}
                         </div>
