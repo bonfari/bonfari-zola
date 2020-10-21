@@ -69,8 +69,8 @@ col=12
                     <i class="fa fa-euro-sign fa-stack-1x fa-inverse"></i>
                 </span>
                 <h4 >Financiën</h4>
-                <p class="text-justify">Wij hebben geen geheime (financiële) motieven, en proberen met alles wat we doen ons doel na te streven. Daarom doen wij onze boekhouding online, en heeft iedereen die dit wil hier inzicht in. Hier zijn onze jaarverslagen van <a href="https://drive.google.com/file/d/0B_1i60BlJan-enJuSVVkSWFYWm8/view">2016</a>, <a href="https://drive.google.com/file/d/1FnsAE0ZVgE6eSsURm3SiVim4ryu1R1At/view">2017</a> en <a href="https://drive.google.com/file/d/1tmt5PrSUQDyaRB45OwQetiY2-sPnYdSd/view">2018</a>.</p>
-                <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal">Open boekhouding</a>
+                <p class="text-justify">Wij hebben geen geheime (financiële) motieven, en proberen met alles wat we doen ons doel na te streven. Daarom doen wij onze boekhouding online, en heeft iedereen die dit wil hier inzicht in. Hier zijn al onze <a href="https://drive.google.com/drive/folders/1dY_TVLyGmMw8la1-l44bz4QWygIle8kZ?usp=sharing/view">jaarverslagen</a> sinds onze oprichting.</p>
+                <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNJnb0snad26VaEvSt1YyWHgZBOkByJu7cfVGyWeJJZQdXm9alNt-5dGMBrsYecZhFrgINj_Rf0zUu/pub?gid=799137033&single=true&output=pdf" class="portfolio-link" data-toggle="modal">Open boekhouding</a>
             </div>
         </div>
     </div>
