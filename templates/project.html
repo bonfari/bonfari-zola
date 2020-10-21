@@ -9,34 +9,38 @@
                     <div class="posts">
                         <div class="row">
                             {% for page in paginator.pages %}
-                            <div class="col-4">
-                                <div class="post-preview">
-                                    <a href="{{ page.permalink }}">
-                                        <h2 class="post-title">{{ page.title }}</h2>
+                            <div class="col-4  portfolio-item">
+                                <!-- <div class="post-preview"> -->
+                                <a href="{{ page.permalink }}">
+                                    <h2 class="post-title">{{ page.title }}</h2>
+                                </a>
+                                {% if page.date %}
+                                <p class="post-meta">Posted by
+                                    {% if page.extra.author %}
+                                    <a href="{{ get_url(path="/over")}}/{{page.extra.author | lower }}">{{page.extra.author}}
+                                        {% else %}
+                                        <a href="#"></a>{{config.extra.author}}
+                                        {% endif %}
                                     </a>
-                                    {% if page.date %}
-                                    <p class="post-meta">Posted by
-                                        {% if page.extra.author %}
-                                        <a href="{{ get_url(path="/over")}}/{{page.extra.author | lower }}">{{page.extra.author}}
-                                            {% else %}
-                                            <a href="#"></a>{{config.extra.author}}
-                                            {% endif %}
-                                        </a>
-                                        on {{ page.date | date(format="%e %B %Y")}}</p>
-                                    {% endif %}
-                                    <p class="post-summary">
-                                        {% if page.extra.image %}
-                                        <a href="{{ page.permalink }}">
+                                    on {{ page.date | date(format="%e %B %Y")}}</p>
+                                {% endif %}
+                                <p class="post-summary">
+                                    {% if page.extra.image %}
+                                    <a href="{{ page.permalink }}">
+                                        <div class="portfolio-hover">
+                                            <div class="portfolio-hover-content"><i class="fa fa-arrows-alt fa-3x"></i>
+                                            </div>
                                             <img {% if class %}class="{{class}}" {% endif %} width="100%"
                                                 src="https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_300,ar_3:2/{% if page.extra.afgerond %}l_text:arial_55_bold:AFGEROND,co_rgb:BEBEBE,o_75,a_30/{% endif %}v1594394902/{{page.extra.image}}"
                                                 alt="{{page.extra.image}}">
-                                        </a>
-                                        {% else %}
-                                        <a href="{{ page.permalink }}">{{ page.summary | safe }} </a><a
-                                            href="{{ page.permalink }}">Lees
-                                            verder...</a></p>
-                                    {% endif %}
-                                </div>
+                                        </div>
+                                    </a>
+                                    {% else %}
+                                    <a href="{{ page.permalink }}">{{ page.summary | safe }} </a><a
+                                        href="{{ page.permalink }}">Lees
+                                        verder...</a></p>
+                                {% endif %}
+                                <!-- </div> -->
                             </div>
                             {% endfor %}
                         </div>
