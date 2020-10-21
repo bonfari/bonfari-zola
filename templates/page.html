@@ -50,13 +50,13 @@
         </div>
         {% endif %}
         {% if page.extra.image %}
-            <h3>Updates van dit project</h3>
+            <h5>Updates van dit project</h5>
 
           <ul>
             {% set section = get_section(path="blog/_index.md") %}
             {% for blog in section.pages %}
             {% if blog.extra.project and blog.extra.project == page.title %}
-            <li><a href="{{ blog.permalink }}">{{ blog.title }}</a></li>
+            <li><a href="{{ blog.permalink }}">{{ blog.title }} ({{ blog.date | date(format="%Y-%m-%d") }})</a></li>
             {% endif %}
             {% endfor %}
           </ul>
