@@ -6,6 +6,7 @@ draft = false
 [taxonomies]
 type = ["financien"]
 tags = ["ervaring vrijwilliger"]
+project = ["Schoolkraam"]
 
 [extra]
 author = "Simon"
