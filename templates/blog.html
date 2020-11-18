@@ -10,7 +10,7 @@
                         {% for page in paginator.pages %}
                         <div class="post-preview">
                             <a href="{{ page.permalink }}">
-                                <h2 class="post-title">{{ page.title }}</h2>
+                                <h4 class="post-title">{{ page.title }}</h4>
                             </a>
                             {% if page.date %}
                             <p class="post-meta">Posted by
@@ -52,7 +52,7 @@
                     <div class="posts">
                         <div class="post-preview">
                             <a href="">
-                                <h2 class="post-title">Tags</h2>
+                                <h4 class="post-title">Tags</h4>
                             </a>
                             <ul>
                                 {% set tags = get_taxonomy(kind="tags") %}

@@ -7,8 +7,8 @@ col=12
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Doel</h2>
-                <h2 class="section-subheading text-muted">Kansen creëren voor kansarmen in de minst ontwikkelde landen op aarde</h2>
+                <h4 class="section-heading">Doel</h4>
+                <h4 class="section-subheading text-muted">Kansen creëren voor kansarmen in de minst ontwikkelde landen op aarde</h4>
             </div>
         </div>
         <div class="row text-center">
@@ -41,8 +41,8 @@ col=12
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2 class="section-heading">Visie</h2>
-                <h2 class="section-subheading text-muted">Hoe gaan we onze doelen nastreven?</h2>
+                <h4 class="section-heading">Visie</h4>
+                <h4 class="section-subheading text-muted">Hoe gaan we onze doelen nastreven?</h4>
             </div>
         </div>
         <div class="row text-center">
