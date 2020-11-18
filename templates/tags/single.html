@@ -64,16 +64,18 @@
                     </div>
                 </div>
                 <div class="col-2">
-                    <a>
-                        <h2>Tags</h2>
-                    </a>
-                    <ul>
-                        {% set tags = get_taxonomy(kind="tags") %}
-                        <li><a href="/blog/">alles</a></li>
-                        {% for tag in tags.items %}
-                        <li><a href="{{ tag.permalink }}">{{ tag.name }}</a></li>
-                        {% endfor %}
-                    </ul>
+                    <div class="posts">
+                        <a>
+                            <h2>Tags</h2>
+                        </a>
+                        <ul>
+                            {% set tags = get_taxonomy(kind="tags") %}
+                            <li><a href="/blog/">alles</a></li>
+                            {% for tag in tags.items %}
+                            <li><a href="{{ tag.permalink }}">{{ tag.name }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
