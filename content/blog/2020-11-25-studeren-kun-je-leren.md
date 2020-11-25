@@ -1,6 +1,6 @@
 +++
 title = "Studeren kun je leren"
-date = 2020-11-25T19:13:48.648Z
+date = 2016-01-01T19:13:48.648Z
 draft = false
 
 [taxonomies]
