@@ -7,7 +7,7 @@ draft = false
 type = ["Blog"]
 
 [extra]
-author = "Stichting Bonfari"
+author = "Simon"
 +++
 In de twee maanden dat ik in Tintinto en omgeving rondloop heb ik maar zelden iemand gezien die op me lijkt. In Tintinto wonen geen blanke mensen, in Brufut heb ik er ook nog nooit een gezien en zelfs op drukke plekken zoals het vissersdorp Tanji of de markt van de stad Serrekunda heb ik niet meer dan een enkeling zien lopen. Het is dan ook niet gek dat de bewoners van Tintinto en Brufut er nogal een spektakel van maken als ik langsloop.<!-- more -->
 

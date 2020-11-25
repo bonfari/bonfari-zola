@@ -1,6 +1,6 @@
 +++
 title = "Hallo Tintinto"
-date = 2016-02-01T12:42:21.550Z
+date = 2016-09-15T12:42:21.550Z
 draft = false
 
 [taxonomies]
@@ -9,7 +9,6 @@ tags = ["ervaring vrijwilliger"]
 
 [extra]
 author = "Simon"
-project = "Schoolkraam"
 +++
 Om tien uur 's avonds zet ik op het vliegveld van Banjul mijn eerste stap op Afrikaanse grond. Het avontuur begint! In de aankomsthal van het vliegveld staat onze lokale adviseur Yaya al op me te wachten. Na een soepele rit deels over asfalt en deels over hobbelige zandpaden komen we bij het huis van Yaya’s familie aan. De eerste nacht zal ik hier verblijven, omdat het te laat is om nog naar het huisje in Tintinto door te rijden. Nadat ik kennis heb gemaakt met de familie Sonko, krijg ik nog een lekkere maaltijd met vis. Na het eten volgt een poging om in slaap te komen, al blijkt dit een aardige uitdaging bij 30 graden en 80% luchtvochtigheid.<!-- more -->
 

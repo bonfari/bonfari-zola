@@ -1,5 +1,5 @@
 +++
-title = "Schooltuin project"
+title = "Schooltuin"
 date = 2016-10-25T18:54:06.830Z
 draft = false
 

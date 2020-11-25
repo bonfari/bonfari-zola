@@ -1,13 +1,13 @@
 +++
 title = "Two friends from different backgrounds"
-date = 2016-03-03T19:14:15.900Z
+date = 2016-12-25T19:14:15.900Z
 draft = false
 
 [taxonomies]
 type = ["Blog"]
 
 [extra]
-author = "Stichting Bonfari"
+author = "Joes"
 +++
 Sinds september 2016 ben ik aan het afstuderen op het onderwerp ‘Voluntourism’ binnen de faculteit Industrial Design aan de TU/e. Naar mijn mening (en natuurlijk flink gefundeerd door experts en literatuur) zou de discussie over dit topic verder moeten gaan dan het bekritiseren van de vrijwilligers of het willen stoppen er van – hoe kan design er voor zorgen dat goed bedoelt vrijwilligerswerk geen negatieve impact heeft?<!-- more -->
 

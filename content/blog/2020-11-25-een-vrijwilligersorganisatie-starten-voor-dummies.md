@@ -1,6 +1,6 @@
 +++
 title = "Een vrijwilligersorganisatie starten voor dummies"
-date = 2016-01-01T19:12:12.214Z
+date = 2016-09-07T19:12:12.214Z
 draft = false
 
 [taxonomies]
@@ -8,7 +8,7 @@ type = ["Blog"]
 tags = ["bonfari", "ontstaan"]
 
 [extra]
-author = "Stichting Bonfari"
+author = "Simon"
 +++
 Tussen Augustus en December zal ik (Simon) vanuit Gambia dit blog bijhouden om mijn tijd als vrijwilliger voor Stichting Bonfari te documenteren. Met deze eerste blogpost zal ik vertellen waarom we de stichting opgericht hebben en welke avonturen we gedurende de oprichting doorgemaakt hebben.<!-- more -->
 

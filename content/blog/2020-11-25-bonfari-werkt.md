@@ -1,13 +1,14 @@
 +++
 title = "Bonfari werkt"
-date = 2016-01-01T19:13:04.346Z
+date = 2016-11-09T19:13:04.346Z
 draft = false
 
 [taxonomies]
 type = ["Blog"]
 
 [extra]
-author = "Stichting Bonfari"
+author = "Frank"
+project = "Schooltuin"
 +++
 Na 6 maanden voorbereiding in Nederland en 2 maanden hier in Gambia, is het dan eindelijk tijd om het eerste echte project uit te voeren! Al het harde werken is de afgelopen weken samengekomen in de uitvoering van het moestuin project.<!-- more -->
 
