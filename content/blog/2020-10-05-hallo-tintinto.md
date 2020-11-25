@@ -4,7 +4,7 @@ date = 2016-02-01T12:42:21.550Z
 draft = false
 
 [taxonomies]
-type = ["financien"]
+type = ["Blog"]
 tags = ["ervaring vrijwilliger"]
 
 [extra]
