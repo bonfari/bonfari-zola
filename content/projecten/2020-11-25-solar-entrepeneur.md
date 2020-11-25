@@ -1,7 +1,7 @@
 +++
 title = "Solar Entrepeneur"
 date = 2020-11-25T18:41:10.646Z
-draft = false
+draft = true
 
 [extra]
 col = 4
