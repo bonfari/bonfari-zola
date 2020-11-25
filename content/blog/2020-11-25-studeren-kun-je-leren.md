@@ -1,7 +1,7 @@
 +++
 title = "Studeren kun je leren"
 date = 2020-11-25T19:13:48.648Z
-draft = true
+draft = false
 
 [taxonomies]
 type = ["Blog"]
