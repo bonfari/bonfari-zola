@@ -7,7 +7,7 @@ draft = true
 col = 4
 author = "Stichting Bonfari"
 image = "naaiatelier"
-afgerond = false
+afgerond = true
 +++
 Uit onderzoek van het Nederlands Platform Microfinanciering blijkt dat microkrediet vooral effectief is voor:
 

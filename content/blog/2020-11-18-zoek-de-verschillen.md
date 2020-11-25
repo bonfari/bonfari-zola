@@ -9,7 +9,7 @@ type = ["Blog"]
 [extra]
 author = "Stichting Bonfari"
 +++
-In de twee maanden dat ik in Tintinto en omgeving rondloop heb ik maar zelden iemand gezien die op me lijkt. In Tintinto wonen geen blanke mensen, in Brufut heb ik er ook nog nooit een gezien en zelfs op drukke plekken zoals het vissersdorp Tanji of de markt van de stad Serrekunda heb ik niet meer dan een enkeling zien lopen. Het is dan ook niet gek dat de bewoners van Tintinto en Brufut er nogal een spektakel van maken als ik langsloop.
+In de twee maanden dat ik in Tintinto en omgeving rondloop heb ik maar zelden iemand gezien die op me lijkt. In Tintinto wonen geen blanke mensen, in Brufut heb ik er ook nog nooit een gezien en zelfs op drukke plekken zoals het vissersdorp Tanji of de markt van de stad Serrekunda heb ik niet meer dan een enkeling zien lopen. Het is dan ook niet gek dat de bewoners van Tintinto en Brufut er nogal een spektakel van maken als ik langsloop.<!-- more -->
 
 ### Toebab Minty
 
@@ -17,7 +17,7 @@ Ze hebben een woord voor wat ze in het Engels "White man" noemen: toebab. Kinder
 
 ![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101343/blog/Blog4.jpg)
 
-###  'Droombaan'
+### 'Droombaan'
 
 Het andere uiterste is te zien in het toeristengebied genaamd Senegambia, een strook kustgebied met resorts en restaurants, waar de verhoudingen op sommige plekken omgekeerd zijn. Wat me hier vooral opviel was de hoeveelheid blanke vrouwen van middelbare leeftijd die hand in hand lopen met een twintigjarige Gambiaan. Na wat onderzoek bij de lokale bevolking blijkt dat veel jonge mannen trouwen met een Europese vrouw als "droombaan" zien. Ze willen er zelfs een aantal diepgewortelde traditionele rechten voor inleveren, zoals heerschappij over de vrouw of het "recht" om met maximaal 4 vrouwen te trouwen.
 

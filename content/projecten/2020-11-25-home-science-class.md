@@ -7,7 +7,7 @@ draft = false
 col = 4
 author = "Stichting Bonfari"
 image = "home_science"
-afgerond = false
+afgerond = true
 +++
 Kinderen in Gambia krijgen net als in Nederland les in zaken als wiskunde, Engels en Frans. Naast deze lessen biedt de school ook praktijklessen aan. Om deze praktijklessen officieel in het lespakket op te mogen nemen, moet de school aantonen over de juiste spullen en competenties te beschikken. Op dit moment heeft de school een accreditatie voor technisch tekenen, omdat ze tekenspullen en competente docenten hebben. De school zou hiernaast graag huishoudles willen aanbieden, omdat de kinderen hier competenties mee kunnen ontwikkelen waar ze later een baan mee kunnen krijgen. Denk hierbij aan werk als kleermaker of kok. Voor deze lessen is echter een eenmalige investering nodig om (trap)naaimachines, stoffen, potten en pannen aan te schaffen.
 
