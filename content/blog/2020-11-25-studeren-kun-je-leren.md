@@ -9,7 +9,7 @@ type = ["Blog"]
 [extra]
 author = "Stichting Bonfari"
 +++
-De laatste update over het lesgeven is al een tijdje geleden, en in Gambia kan er in korte tijd veel veranderen. De eerste 2 weken van het schooljaar was ik hoofdverantwoordelijke voor de lessen van de negende klas (9A en 9B), daarna heb ik deze lessen 2 weken overgedragen aan een nieuwe leraar, inmiddels is er weer een andere leraar die de lessen doet en ga ik beginnen met het bijspijkeren van de wiskundekennis van de leraren zelf.
+De laatste update over het lesgeven is al een tijdje geleden, en in Gambia kan er in korte tijd veel veranderen. De eerste 2 weken van het schooljaar was ik hoofdverantwoordelijke voor de lessen van de negende klas (9A en 9B), daarna heb ik deze lessen 2 weken overgedragen aan een nieuwe leraar, inmiddels is er weer een andere leraar die de lessen doet en ga ik beginnen met het bijspijkeren van de wiskundekennis van de leraren zelf.<!-- more -->
 
 **De kopieermachine**
 
@@ -18,8 +18,6 @@ Toen ik zelf les aan het geven was, kwam ik erachter hoeveel geluk ik op de midd
 ![](https://bonfari.nl/img/Blog/STBCS(2).png)
 
 ![](https://bonfari.nl/img/Blog/STBCS(4).png)
-
-
 
 **Geen dag hetzelfde**
 
