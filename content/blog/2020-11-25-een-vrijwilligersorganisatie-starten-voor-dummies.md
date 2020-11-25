@@ -1,6 +1,6 @@
 +++
 title = "Een vrijwilligersorganisatie starten voor dummies"
-date = 2020-11-25T19:12:12.214Z
+date = 2016-01-01T19:12:12.214Z
 draft = false
 
 [taxonomies]
