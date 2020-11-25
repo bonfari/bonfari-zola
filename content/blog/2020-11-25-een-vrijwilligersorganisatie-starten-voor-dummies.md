@@ -10,7 +10,7 @@ tags = ["bonfari", "ontstaan"]
 [extra]
 author = "Stichting Bonfari"
 +++
-Tussen Augustus en December zal ik (Simon) vanuit Gambia dit blog bijhouden om mijn tijd als vrijwilliger voor Stichting Bonfari te documenteren. Met deze eerste blogpost zal ik vertellen waarom we de stichting opgericht hebben en welke avonturen we gedurende de oprichting doorgemaakt hebben.
+Tussen Augustus en December zal ik (Simon) vanuit Gambia dit blog bijhouden om mijn tijd als vrijwilliger voor Stichting Bonfari te documenteren. Met deze eerste blogpost zal ik vertellen waarom we de stichting opgericht hebben en welke avonturen we gedurende de oprichting doorgemaakt hebben.<!-- more -->
 
 Toen ik begin 2016 op zoek was naar een plek om in de tweede helft van het jaar vrijwilligerswerk te gaan doen, had ik nog nooit van voluntourism gehoord. Toch vond ik het moeilijk om een organisatie te vinden die transparant was in zowel projecten als financiën. Intussen ging Frank toevallig net naar Gambia, en had hij van mijn vrijwilligersambities gehoord. Frank gaf aan wel eens rond te kunnen vragen of er daar in het dorpje waar hij naartoe ging mogelijkheden waren voor vrijwilligerswerk, dit kwam voor mij natuurlijk ideaal uit!
 
