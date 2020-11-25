@@ -1,6 +1,6 @@
 +++
 title = "Two friends from different backgrounds"
-date = 2020-11-25T19:14:15.900Z
+date = 2016-03-03T19:14:15.900Z
 draft = false
 
 [taxonomies]
