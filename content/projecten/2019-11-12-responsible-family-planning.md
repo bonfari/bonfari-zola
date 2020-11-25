@@ -7,6 +7,7 @@ draft = false
 col = 4
 author = "Stichting Bonfari"
 image = "rfp"
+afgerond = true
 +++
 <p class="text-justify" style="white-space: pre-wrap">Susan van der Ploeg heeft dit project opgezet. Zij werkt hierin samen met Bonfari. In het onderstaande stuk legt zij uit wat zij binnen dit project doet en wat de doelen van het project zijn.</p>
 
