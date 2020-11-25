@@ -7,7 +7,7 @@ draft = false
 col = 4
 author = "Stichting Bonfari"
 image = "bibliotheek"
-afgerond = false
+afgerond = true
 +++
 Lokale vakmensen hebben ons geholpen om de kasten te fabriceren. Voordat Simon de opdracht voor de kasten heeft gegeven, is hij bij een aantal scholen in de buurt langs geweest om inspiratie op te doen. Deze ijzeren constructie bleek de meest duurzame oplossing te zijn. 
 
