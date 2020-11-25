@@ -9,9 +9,7 @@ type = ["Blog"]
 [extra]
 author = "Stichting Bonfari"
 +++
-De volgende blog is geschreven door Joes Janmaat n.a.v. haar afstudeeropdracht waarbij ze met ons heeft samengewerkt.
-
-Sinds september 2016 ben ik aan het afstuderen op het onderwerp ‘Voluntourism’ binnen de faculteit Industrial Design aan de TU/e. Naar mijn mening (en natuurlijk flink gefundeerd door experts en literatuur) zou de discussie over dit topic verder moeten gaan dan het bekritiseren van de vrijwilligers of het willen stoppen er van – hoe kan design er voor zorgen dat goed bedoelt vrijwilligerswerk geen negatieve impact heeft?
+Sinds september 2016 ben ik aan het afstuderen op het onderwerp ‘Voluntourism’ binnen de faculteit Industrial Design aan de TU/e. Naar mijn mening (en natuurlijk flink gefundeerd door experts en literatuur) zou de discussie over dit topic verder moeten gaan dan het bekritiseren van de vrijwilligers of het willen stoppen er van – hoe kan design er voor zorgen dat goed bedoelt vrijwilligerswerk geen negatieve impact heeft?<!-- more -->
 
 In stichting Bonfari vond ik al snel mijn bondgenoot; (h)erkennen dat de huidige gang van zaken niet de meeste optimale is en vervolgens invulling geven aan deze zogenaamde ‘need for change’ binnen de wereld van internationaal vrijwilligerswerk.
 
