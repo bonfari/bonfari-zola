@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://bonfari.netlify.app"
+base_url = "https://bonfari.net"
 generate_rss = true
 compile_sass = true
 
