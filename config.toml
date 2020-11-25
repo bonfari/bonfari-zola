@@ -19,7 +19,7 @@ clean_blog_menu = [
     {url = "$BASE_URL/vrijwilligers", name = "Vrijwilligers"},
     {url = "$BASE_URL/doelvisie", name = "Doel & Visie"},
     {url = "$BASE_URL/projecten", name = "Projecten"},
-    {url = "$BASE_URL/type/financien", name = "Financiën"},
+    {url = "$BASE_URL/type/financien", name = "Financien"},
     {url = "$BASE_URL/over", name = "Over"},
     {url = "$BASE_URL/blog", name = "Blog"},
 ]

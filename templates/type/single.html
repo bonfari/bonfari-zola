@@ -3,5 +3,16 @@
 {% block title %}{{ config.title }} - Articles in the {{ term.name }} type{% endblock %}
 
 {% block headertitle %}
-<h1 class="page-heading">{{ term.name }}</h1>
+<h1 class="page-heading text-uppercase">{{ term.name }}</h1>
+{% endblock %}
+
+{% block contentheader %}
+<div class="col-xs-12 col-md-6">
+    <h2>Overzicht boekhouding</h2>
+    <iframe width="430" height="400" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRNJnb0snad26VaEvSt1YyWHgZBOkByJu7cfVGyWeJJZQdXm9alNt-5dGMBrsYecZhFrgINj_Rf0zUu/pubhtml?widget=true&amp;headers=false"></iframe>
+</div>
+<div class="col-xs-12 col-md-6">
+    <h2>Realisaties projecten</h2>
+    <iframe width="500" height="400" frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQbXbmQIFtWIVUlLa_vWy077iFLzNjpP3I6R_jUqjxY7wMIDrISVkCIPzhA13I_VUuXmDj4dFZpH_E6/pubhtml?widget=true&amp;headers=false"></iframe>
+</div>
 {% endblock %}
