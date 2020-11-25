@@ -7,7 +7,7 @@ draft = false
 col = 4
 author = "Stichting Bonfari"
 image = "schooltuin"
-afgerond = false
+afgerond = true
 +++
 Na overleg met de schooldirecteur Mbemba en vice-burgemeester Omar, bleek de aanleg van een moestuin erg belangrijk. Hierin kunnen leerlingen leren over de verschillende gewassen die ze kunnen verbouwen en hoe ze deze gewassen moeten verzorgen.
 
