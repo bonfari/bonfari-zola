@@ -9,7 +9,7 @@ type = ["Blog"]
 [extra]
 author = "Stichting Bonfari"
 +++
-Na 6 maanden voorbereiding in Nederland en 2 maanden hier in Gambia, is het dan eindelijk tijd om het eerste echte project uit te voeren! Al het harde werken is de afgelopen weken samengekomen in de uitvoering van het moestuin project.
+Na 6 maanden voorbereiding in Nederland en 2 maanden hier in Gambia, is het dan eindelijk tijd om het eerste echte project uit te voeren! Al het harde werken is de afgelopen weken samengekomen in de uitvoering van het moestuin project.<!-- more -->
 
 **Change of plans**
 
@@ -33,11 +33,7 @@ Na het ijzerwaar moest er ook aan de fundering van het hek worden gedacht, hierv
 
 ![](https://bonfari.nl/img/Blog/Blog5(11).jpg)
 
-
-
 Een paar dagen nadat alle spullen waren verzameld kwam Frank aan in Gambia om me een weekje te vergezellen. Er was nog een hoop werk te verzetten om een omheinde tuin te realiseren, dus werd hij meteen aan het werk gezet. Om de zaken wat gemakkelijker te maken was het op de eerste dag van de aanleg één van de warmste dagen sinds ik hier ben. Gelukkig kregen we hulp van een aantal vrijwilligers van het schoolpersoneel, die met een lekkere sandwich gemotiveerd werden.
-
-
 
 ![](https://bonfari.nl/img/Blog/Blog5(5).jpg)
 
@@ -45,25 +41,17 @@ Een paar dagen nadat alle spullen waren verzameld kwam Frank aan in Gambia om me
 
 ![](https://bonfari.nl/img/Blog/Blog5(3).jpg)
 
-
-
 Om de het hek voldoende stevigheid te geven om nog jaren mee te gaan moesten er 28 gaten gegraven worden. Het graven van 28 gaten, in de harde Afrikaanse grond, bij 37 graden Celsius, was met zijn tweeën wel een uitdaging geworden. We stonden er gelukkig niet alleen voor! En met alle hulp stonden binnen de kortste keren alle palen in de grond. Als bonusproject konden we van wat restbeton de kraan van de school wat steviger in de grond zetten (en onze bijdrage aan de school vereeuwigen).
 
 ![](https://bonfari.nl/img/Blog/Blog5(6).jpg)
 
 Aangezien we de palen op vrijdag in de grond hebben gezet, konden ze het weekend goed uitharden. Na het weekend kon er daardoor worden begonnen aan het bevestigen van het hek aan de palen. Initieel zouden we op maandag van start gaan met het neerzetten van het hek, maar dit ging niet door omdat onze belangrijkste hulp in het ziekenhuis was met zijn zoontje die malaria had opgelopen. Gelukkig is dit helemaal goed gekomen en zijn we op dinsdag begonnen aan het aanleggen van het hek. Wij dachten hier wel in een paar uurtjes mee klaar te zijn, maar ook dit bleek een dagtaak ondanks alle hulp. Maar het harde werken loonde wel! Na twee dagen werken stond er een omheining, alleen de poort moest nog worden toegevoegd. Moe maar voldaan sloten wij onze tweede werkdag af.
 
-
-
 ![](https://bonfari.nl/img/Blog/Blog5(7).jpg)
 
 ![](https://bonfari.nl/img/Blog/Blog5(8).jpg)
 
-
-
 De avond dat we het hek klaar hadden, kregen we een belletje van Giteh dat onze poort klaar was. Giteh is de lokale ijzersmid die zaken voor ons maakt op het moment dat er gelast moet worden. Nog diezelfde avond wordt de poort bij ons op het compound afgeleverd. Nu we ook dit laatste onderdeel van de tuin er was, stond niets ons meer in de weg om de tuin de volgende dag af te maken. Ook dit bleek weer meer werk dan van tevoren gedacht, maar met nog eens een halve dag werk in de vingers was de tuin dan echt klaar! Nog dezelfde week is er door de school begonnen met lesgeven in de tuin, zoals te zien op de foto’s.
-
-
 
 ![](https://bonfari.nl/img/Blog/Blog5(9).jpg)
 
