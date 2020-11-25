@@ -1,7 +1,7 @@
 +++
 title = "Two friends from different backgrounds"
 date = 2020-11-25T19:14:15.900Z
-draft = true
+draft = false
 
 [taxonomies]
 type = ["Blog"]
