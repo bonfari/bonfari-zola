@@ -1,7 +1,7 @@
 +++
 title = "Microkrediet Ami"
 date = 2016-01-27T19:03:11.759Z
-draft = true
+draft = false
 
 [extra]
 col = 4
