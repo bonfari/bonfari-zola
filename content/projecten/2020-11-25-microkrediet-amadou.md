@@ -1,7 +1,7 @@
 +++
 title = "Microkrediet Amadou"
 date = 2020-11-25T18:39:46.422Z
-draft = true
+draft = false
 
 [extra]
 col = 4
