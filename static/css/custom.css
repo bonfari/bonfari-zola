@@ -35,3 +35,8 @@
     /* margin-top: -12px; */
     color: #fff;
 }
+
+.btn-primary {
+    background-color: #f05f40;
+    border-color: #f05f40;
+}
