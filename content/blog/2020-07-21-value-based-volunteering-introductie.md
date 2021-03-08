@@ -1,11 +1,11 @@
 +++
 title = "Value-based Volunteering: Introductie"
-date = 2020-07-21T19:00:26.536Z
+date = 2021-03-08T20:00:26.536Z
 draft = false
 
 [taxonomies]
 tags = ["value-based volunteering", "skill-based", "effective altruism"]
-type = ["Blog","financien"]
+type = ["Blog", "financien"]
 
 [extra]
 author = "Rogier"
