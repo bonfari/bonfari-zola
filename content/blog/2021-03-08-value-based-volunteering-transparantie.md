@@ -8,7 +8,7 @@ type = ["Blog"]
 tags = ["value-based volunteering", "skill-based", "effective altruism"]
 
 [extra]
-author = "Stichting Bonfari"
+author = "David"
 +++
 In onze reeks blogs over value-based volunteering bespreken wat voor ons vanuit Bonfari de belangrijkste elementen van goed vrijwilligerswerk: transparantie, duurzame samenwerking met de lokale bevolking; en efficiënt gebruik maken van beschikbare middelen. Vandaag hebben we het over: Transparantie. <!-- more -->
 
@@ -51,4 +51,4 @@ Door eens kritisch naar ons proces te kijken zagen wij dat onze financiën niet 
 Tijdens onze zoektocht naar de essentie van value-based volunteering kwamen wij nog een partij tegen die zeker genoemd moet worden in het kader van transparantie. De organisatie [GiveWell](https://www.givewell.org/about/our-mistakes), lijkt de meeste van de besproken punten te vinken en heeft zelf een pagina die gewijd is aan de transparantie m.b.t. [fouten in hun beleidsvoering](https://www.givewell.org/about/our-mistakes).
 
 \
-Hoe kijk jij hier naar? Wat is naar jouw idee belangrijk om vrijwilligerswerk succesvol te laten zijn? Laat het ons weten! Dat kan in de comments, via een mailtje (<mailto:feedback@bonfari.nl>) of via de website.
+Hoe kijk jij hier naar? Wat is naar jouw idee belangrijk om vrijwilligerswerk succesvol te laten zijn? Laat het ons weten! Dat kan in de comments, via [feedback@bonfari.net](mailto:feedback@bonfari.net) of via de website.
