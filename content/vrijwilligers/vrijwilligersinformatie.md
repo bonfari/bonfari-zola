@@ -1,5 +1,5 @@
 +++
-title = "Proces"
+title = "Vrijwilligersinformatie"
 weight = 20
 [extra]
 col=12
