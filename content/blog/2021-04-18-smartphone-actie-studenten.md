@@ -9,11 +9,11 @@ type = ["Blog"]
 [extra]
 author = "Stichting Bonfari"
 +++
-De afgelopen maanden hebben wij in nauw contact gestaan met de mensen in Gambia. Ondanks dat Corona volgens de officiële cijfers nog niet heel veel slachtoffers heeft gemaakt, is de impact van de pandemie in Gambia toch erg groot. Het land is voor een groot deel afhankelijk van toerisme, dat al ruim een jaar niet meer kan komen. Wij hebben aan onze lokale contacten gevraagd hoe wij ze, zonder lokaal aanwezig te zijn, toch kunnen helpen. Hierbij is door Mod Lamin, van Young Stars Movie Productions, vertelde ons dat veel studenten behoefte hebben aan smartphones. Grootste reden hiervoor is dat ook in Gambia veel onderwijs via het internet gaat, terwijl de toegang hiertoe zeer beperkt is. <!-- more -->
+De afgelopen maanden hebben wij in nauw contact gestaan met onze lokale contacten in Gambia en hen gevraagd: Hoe kunnen wij, zonder lokaal aanwezig te zijn, van afstand een verschil maken? Ondanks dat Corona volgens de officiële cijfers nog niet heel veel slachtoffers heeft gemaakt, is de impact van de pandemie in Gambia erg groot. Ook in Gambia is (veel van) het onderwijs niet meer fysiek, maar alleen digitaal te volgen. Mod Lamin, een docent en organisatorvan Young Stars Movie Productions, vertelde ons dat veel studenten daarom behoefte hebben aan smartphones. <!-- more -->
 
-Wij hebben afgelopen maand als test 5 telefoons naar Gambia gestuurd, deze zijn goed aangekomen. De telefoons zijn verdeeld onder studenten die hieraan behoefte hadden. De studenten zijn zo vriendelijk geweest om ons een bedankje te sturen, welke bedankjes we onderstaand hebben opgenomen. 
+Wij hebben in de afgelopen maand 5 telefoons naar Gambia gestuurd en deze zijn goed aangekomen. De telefoons zijn verdeeld onder studenten die hieraan behoefte hadden. De studenten zijn zo vriendelijk geweest om ons een bedankje te sturen, welke bedankjes we onderstaand hebben opgenomen. 
 
-**Heb jij toevallig nog een telefoon liggen die nog een ronde meekan, laat het ons dan vooral weten!** Neem contact op via: info@bonfari.net. De komende maanden zullen wij in kleine batches telefoons naar Gambia blijven sturen. Als jij het leuk vindt om te weten wie jouw telefoon krijgt, dan brengen wij jou ook graag in contact met de ontvanger van jouw telefoon!
+**Heb jij toevallig nog een telefoon liggen die nog een ronde mee kan, laat het ons dan vooral weten!** Neem contact op via: info@bonfari.net. De komende maanden zullen wij in kleine batches telefoons naar Gambia blijven sturen. Als jij het leuk vindt om te weten wie jouw telefoon krijgt, dan brengen wij jou ook graag in contact met de ontvanger van jouw telefoon!
 
 ### Oumie Baldeh
 
