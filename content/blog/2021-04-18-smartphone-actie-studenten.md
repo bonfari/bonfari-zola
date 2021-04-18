@@ -11,7 +11,11 @@ author = "Stichting Bonfari"
 +++
 ### Intro
 
+De afgelopen maanden hebben wij in nauw contact gestaan met de mensen in Gambia. Ondanks dat Corona volgens de officiële cijfers nog niet heel veel slachtoffers heeft gemaakt, is de impact van de pandemie in Gambia toch erg groot. Het land is voor een groot deel afhankelijk van toerisme, dat al ruim een jaar niet meer kan komen. Wij hebben aan onze lokale contacten gevraagd hoe wij ze, zonder lokaal aanwezig te zijn, toch kunnen helpen. Hierbij is door Mod Lamin, van Young Stars Movie Productions, vertelde ons dat veel studenten behoefte hebben aan smartphones. Grootste reden hiervoor is dat ook in Gambia veel onderwijs via het internet gaat, terwijl de toegang hiertoe zeer beperkt is. 
 
+Wij hebben afgelopen maand als test 5 telefoons naar Gambia gestuurd, deze zijn goed aangekomen. De telefoons zijn verdeeld onder studenten die hieraan behoefte hadden. De studenten zijn zo vriendelijk geweest om ons een bedankje te sturen, welke bedankjes we onderstaand hebben opgenomen. 
+
+**Heb jij toevallig nog een telefoon liggen die nog een ronde meekan, laat het ons dan vooral weten!** Neem contact op via: info@bonfari.net. De komende maanden zullen wij in kleine batches telefoons naar Gambia blijven sturen. Als jij het leuk vindt om te weten wie jouw telefoon krijgt, dan brengen wij jou ook graag in contact met de ontvanger van jouw telefoon!
 
 ### Oumie Baldeh
 
@@ -19,7 +23,7 @@ author = "Stichting Bonfari"
 
 > My name is Oumie Baldeh currently a student. I have received a phone through Mr Modou lamin Sowe. I'm so happy and grateful for having this phone because it will be so helpful to me during this difficult times of my life. My guidance is also very grateful and happy for the support. Thank you very much for your assistance towards my education and capacity building. May God bless you and your family with abundance. Ones again thank you very much God bless you.
 
-### Omar Jammeh 
+### Omar Jammeh
 
 ![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1618741880/WhatsApp_Image_2021-03-29_at_18.58.58.jpg)
 
