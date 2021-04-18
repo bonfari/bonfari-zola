@@ -9,9 +9,9 @@ type = ["Blog"]
 [extra]
 author = "Stichting Bonfari"
 +++
-De afgelopen maanden hebben wij in nauw contact gestaan met onze lokale contacten in Gambia en hen gevraagd: Hoe kunnen wij, zonder lokaal aanwezig te zijn, van afstand een verschil maken? Ondanks dat Corona volgens de officiële cijfers nog niet heel veel slachtoffers heeft gemaakt, is de impact van de pandemie in Gambia erg groot. Ook in Gambia is (veel van) het onderwijs niet meer fysiek, maar alleen digitaal te volgen. Mod Lamin, een docent en organisatorvan Young Stars Movie Productions, vertelde ons dat veel studenten daarom behoefte hebben aan smartphones. <!-- more -->
+De afgelopen maanden hebben wij in nauw contact gestaan met onze lokale contacten in Gambia en hen gevraagd: Hoe kunnen wij, zonder lokaal aanwezig te zijn, van afstand een verschil maken? Ondanks dat Corona volgens de officiële cijfers nog niet heel veel slachtoffers heeft gemaakt, is de impact van de pandemie in Gambia erg groot. Ook in Gambia is (veel van) het onderwijs niet meer fysiek, maar alleen digitaal te volgen. Mod Lamin, een docent en organisator van Young Stars Movie Productions, vertelde ons dat veel studenten daarom behoefte hebben aan smartphones. <!-- more -->
 
-Wij hebben in de afgelopen maand 5 telefoons naar Gambia gestuurd en deze zijn goed aangekomen. De telefoons zijn verdeeld onder studenten die hieraan behoefte hadden. De studenten zijn zo vriendelijk geweest om ons een bedankje te sturen, welke bedankjes we onderstaand hebben opgenomen. 
+Wij hebben in de afgelopen maand 5 telefoons naar Gambia gestuurd en deze zijn goed aangekomen bij de studenten die hier heeft meest behoefte aan hadden. Voor iedereen die al telefoons met ons gedeeld heeft, heel erg bedankt! Ook namens de studenten die ze nu kunnen gebruiken, zie hun persoonlijke bedankjes hieronder in de foto's. 
 
 **Heb jij toevallig nog een telefoon liggen die nog een ronde mee kan, laat het ons dan vooral weten!** Neem contact op via: info@bonfari.net. De komende maanden zullen wij in kleine batches telefoons naar Gambia blijven sturen. Als jij het leuk vindt om te weten wie jouw telefoon krijgt, dan brengen wij jou ook graag in contact met de ontvanger van jouw telefoon!
 
