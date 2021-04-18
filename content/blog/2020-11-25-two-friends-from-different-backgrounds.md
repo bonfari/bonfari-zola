@@ -17,9 +17,9 @@ Tijdens de laatste maanden heb ik door design research inzicht, begrip en gevoel
 
 - - -
 
-![](https://bonfari.nl/img/Blog/blogpost_joes_4.jpg)
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101343/blog/blogpost_joes_4.jpg)
 
-![](https://bonfari.nl/img/Blog/blogpost_joes_5.jpg)
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101343/blog/blogpost_joes_5.jpg)
 
 - - -
 
@@ -27,9 +27,9 @@ Als advocaat van de duivel zette ik tijdens mijn verblijf voortdurend vraagteken
 
 - - -
 
-![](https://bonfari.nl/img/Blog/blogpost_joes_7.jpg)
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101343/blog/blogpost_joes_7.jpg)
 
-![](https://bonfari.nl/img/Blog/blogpost_joes_1.jpg)
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101343/blog/blogpost_joes_1.jpg)
 
 - - -
 
@@ -37,11 +37,11 @@ Ja, ik ben er inmiddels achter dat ‘goed doen’ een stukkie complexer is dan 
 
 - - -
 
-![](https://bonfari.nl/img/Blog/blogpost_joes_3.jpg)
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101343/blog/blogpost_joes_3.jpg)
 
-![](https://bonfari.nl/img/Blog/blogpost_joes_2.jpg)
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101343/blog/blogpost_joes_2.jpg)
 
-![](https://bonfari.nl/img/Blog/blogpost_joes_6.jpg)
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101343/blog/blogpost_joes_6.jpg)
 
 - - -
 

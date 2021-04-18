@@ -15,9 +15,9 @@ De laatste update over het lesgeven is al een tijdje geleden, en in Gambia kan e
 
 Toen ik zelf les aan het geven was, kwam ik erachter hoeveel geluk ik op de middelbare school heb gehad. Voornamelijk omdat op mijn school iedereen voorzien werd van een set goede schoolboeken om uit te leren. Hier is de situatie iets anders, ik had als docent als enige een wiskundeboek, waar helaas niet eens alle informatie in klopte. Aangezien de leerlingen toch wat aantekeningen nodig hebben om op terug te vallen (voor ieder vak) bestaat een groot deel van de schooldag uit het op het bord kopiëren van informatie uit schoolboeken en het in het schrift kopiëren van deze informatie door alle leerlingen. Hier leek niks aan te veranderen, dus heb ik vooral gefocusd op het interessant maken van de rest van de lestijd. Gelukkig wordt dit van alle leraren verwacht en wordt men hier ook in gesteund door bijvoorbeeld de voorbereiding van het lesplan waarin goed moet worden nagedacht over hoe een bepaald onderwerp uitgelegd en overgebracht dient te worden.
 
-![](https://bonfari.nl/img/Blog/STBCS(2).png)
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101343/blog/STBCS_2.png)
 
-![](https://bonfari.nl/img/Blog/STBCS(4).png)
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1602101343/blog/STBCS_4.png)
 
 **Geen dag hetzelfde**
 

@@ -40,3 +40,11 @@
     background-color: #f05f40;
     border-color: #f05f40;
 }
+
+img{
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
