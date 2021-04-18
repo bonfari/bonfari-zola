@@ -1,7 +1,7 @@
 +++
 title = "Smartphone actie studenten"
 date = 2021-04-18T10:23:33.811Z
-draft = true
+draft = false
 
 [taxonomies]
 type = ["Blog"]
