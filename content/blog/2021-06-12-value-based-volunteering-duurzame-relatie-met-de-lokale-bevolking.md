@@ -10,8 +10,6 @@ tags = ["value-based volunteering", "skill-based", "effective altruism"]
 [extra]
 author = "Simon"
 +++
-<!--StartFragment-->
-
 In onze reeks blogs over value-based volunteering bespreken wat voor ons vanuit Bonfari de belangrijkste elementen van goed vrijwilligerswerk zijn: transparantie, duurzame samenwerking met de lokale bevolking en efficiënt gebruik maken van beschikbare middelen. Vandaag hebben we het over: Duurzame relatie met de lokale bevolking.<!-- more --> 
 
 **Wat is het idee?**
@@ -49,5 +47,3 @@ We zijn inmiddels 5 jaar aan het werken aan een duurzame relatie met de bevolkin
 **Hoe kunnen wij onze duurzame relaties verbeteren?** 
 
 Toen we begonnen met onze projecten hadden we nog geen duidelijk beeld van het opbouwen van een duurzame relatie. Een van de projecten die we gedaan hebben is het bouwen van een met gaashekwerk omheinde schooltuin voor agrarische les. Deze omheining heeft al 2x onderhoud nodig gehad waar de school geen geld voor had. We hadden hier beter een financiële constructie voor kunnen bedenken waarbij bijvoorbeeld de gewassen die verbouwd worden verkocht zouden worden om te sparen voor onderhoudskosten. We leren daarnaast ook erg veel van andere stichtingen. Via [Verenigde Stichtingen Gambia](https://www.vsgambia.com/) zijn de in aanraking gekomen met o.a. [Stichting Dawda](https://www.dawdasg.nl/), die een goed voorbeeld geven. Voor volgende projecten proberen we alle bovenstaande ideeën zo goed mogelijk te volgen!
-
-<!--EndFragment-->
