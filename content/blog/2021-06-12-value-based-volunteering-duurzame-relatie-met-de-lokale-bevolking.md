@@ -5,14 +5,14 @@ draft = false
 
 [taxonomies]
 type = ["Blog"]
-tags = ["value-based volunteering #skill-based #effective altruism"]
+tags = ["value-based volunteering", "skill-based", "effective altruism"]
 
 [extra]
 author = "Simon"
 +++
 <!--StartFragment-->
 
-In onze reeks blogs over value-based volunteering bespreken wat voor ons vanuit Bonfari de belangrijkste elementen van goed vrijwilligerswerk zijn: transparantie, duurzame samenwerking met de lokale bevolking en efficiënt gebruik maken van beschikbare middelen. Vandaag hebben we het over: Duurzame relatie met de lokale bevolking. 
+In onze reeks blogs over value-based volunteering bespreken wat voor ons vanuit Bonfari de belangrijkste elementen van goed vrijwilligerswerk zijn: transparantie, duurzame samenwerking met de lokale bevolking en efficiënt gebruik maken van beschikbare middelen. Vandaag hebben we het over: Duurzame relatie met de lokale bevolking. <!-- more --> 
 
 **Wat is het idee?**
 
