@@ -25,4 +25,6 @@ Stichting Bonfari wil in samenwerking met het VDC een watertoren realiseren. Hie
 4. toren opbouwen + plaatsen watertank; 
 5. waterkranen aanleggen op strategische plekken in het dorp. 
 
-Met lokale belanghebbenden en aannemers hebben wij een grove kosteninschatting gemaakt. Deze inschatting kwam uit op ongeveer €9.000.
+## Wij zoeken vrijwilligers voor dit project!
+
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_1024/v1626891064/watertorenvrijwilliger.png)
