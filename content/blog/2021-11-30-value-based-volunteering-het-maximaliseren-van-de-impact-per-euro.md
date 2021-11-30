@@ -1,7 +1,7 @@
 +++
 title = "Value-based volunteering: het maximaliseren van de impact per euro"
 date = 2021-11-30T06:49:20.271Z
-draft = true
+draft = false
 
 [taxonomies]
 type = ["Blog"]
