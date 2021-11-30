@@ -29,7 +29,7 @@ Het is ook belangrijk om bewustzijn te creëren en te behouden over wat de poten
 
 ### Wat gebeurt er zonder efficiëntie?
 
-Zonder efficiënt gebruik van euro’s komt het geld niet terecht bij de beoogde doelgroep. Op de website van het [CBF](https://www.cbf.nl/), een toezichthouder voor goede doelen, is er voor een 631 goede doelen een overzicht te zien van hun jaarverslagen, welke zijn opgesplitst overhead, werving en het daadwerkelijke doel. Na even klikken is er direct al een [goed voorbeeld](https://www.cbf.nl/organisatie/care-for-brazil) te vinden waarbij er slechts 60% van de gedoneerde 250.000,- daadwerkelijk terecht is gekomen bij het goede doel. We gaan er natuurlijk vanuit dat iedereen vrijwilligerswerk met de juiste bedoelingen doet, maar volgens onze filosofie zou je je af kunnen vragen of de 100.000,- aan “beheer en administratie” niet beter besteed had kunnen worden. 
+Zonder efficiënt gebruik van euro’s komt het geld niet terecht bij de beoogde doelgroep. Op de website van het [CBF](https://www.cbf.nl/), een toezichthouder voor goede doelen, is er voor een 631 goede doelen een overzicht te zien van hun jaarverslagen, welke zijn opgesplitst overhead, werving en het daadwerkelijke doel. Na even klikken is er direct al een [goed voorbeeld](https://www.cbf.nl/organisatie/care-for-brazil) te vinden waarbij er slechts 60% van de gedoneerde 250.000,- daadwerkelijk terecht is gekomen bij het goede doel. We gaan er natuurlijk vanuit dat iedereen vrijwilligerswerk met de juiste bedoelingen doet, maar volgens onze filosofie zou je je af kunnen vragen of de 100.000,- aan “beheer en administratie” niet beterhttps://bonfari.nl/admin/#/collections/blogs besteed had kunnen worden. 
 
 ### Hoe implementeren wij middelen efficiënt?
 
