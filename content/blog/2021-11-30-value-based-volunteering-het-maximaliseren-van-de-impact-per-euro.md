@@ -5,7 +5,7 @@ draft = false
 
 [taxonomies]
 type = ["Blog"]
-tags = ["value-based volunteering", "skill-based", "effective altruism"]
+tags = ["value-based volunteering", "effective altruism"]
 
 [extra]
 author = "David"
