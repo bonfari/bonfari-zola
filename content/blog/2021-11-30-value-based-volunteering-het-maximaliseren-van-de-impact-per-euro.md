@@ -35,11 +35,11 @@ Zonder efficiënt gebruik van euro’s komt het geld niet terecht bij de beoogde
 
 Hoewel we alles kunnen rationaliseren ten behoeve van de efficiëntie, blijft het voor ons ook een subjectieve kwestie. We opereren binnen vaste kaders en het is ook belangrijk voor ons om gemotiveerd te blijven tijdens de uitvoering. Zoals hieronder te lezen, zijn er bij de meeste van onze implementaties wel wat kanttekeningen te maken.
 
-*We focussen op de minst ontwikkelde landen, daar valt het meest te winnen*
+***We focussen op de minst ontwikkelde landen, daar valt het meest te winnen***
 
 Binnen onze organisatie leggen wij de focus op kleinschalige projecten in de armste landen van de wereld om het maximale effect uit de beperkte middelen te halen. Vanwege ons persoonlijke netwerk was het makkelijk en effectief om aan de slag te gaan binnen Gambia en Malawi. Zonder dit persoonlijke netwerk, hadden we ons wellicht eerder gefocust op armere landen zoals Burundi of Zuid-Sudan. 
 
-*We doen zelf wat we zelf (het beste) doen*
+***We doen zelf wat we zelf (het beste) doen***
 
 Om ons werk zo efficiënt mogelijk te doen, heeft ieder van ons heeft zijn/haar eigen specialiteit. Zo zijn we weinig bezig met dingen uit te zoeken en hebben we er ook nog eens plezier in.
 
@@ -48,23 +48,23 @@ Opzetten stichting & legal: Frank\
 Design & media: Tessa\
 Project Planning: Rogier
 
-*We maken het financieel aantrekkelijk voor onze donateurs* 
+***We maken het financieel aantrekkelijk voor onze donateurs*** 
 
 Wij maken het voor onze donateurs makkelijk om door middel van een ANBI donatie een bij de belasting aftrekbare donatie te doen. Dit ANBI formulier maken wij zelfs makkelijk digitaal invulbaar via [onze website](https://bonfari.nl/). Door dit op deze manier te doen verwachten wij dat de drempel tot donatie lager is en dat er meer euro’s daadwerkelijke terecht komen bij de beoogde doelgroep. Daarnaast zorgen we er zo ook direct voor dat we hier zelf zo min mogelijk tijd aan hoeven te besteden, die kunnen we dan mooi weer ergens anders inzetten.
 
-*We minimaliseren onze overhead*
+***We minimaliseren onze overhead***
 
 Verder proberen wij door middel van het gebruiken van gratis services zoals website en email onze overhead te minimaliseren. Helaas zijn er nog geen gratis alternatieven voor banken maar door het kiezen van de goedkoopste bank voor stichtingen proberen we dit zelfs te minimaliseren. Dit zorgt er ook voor dat wij met trots onze financiën 100% transparant op [onze site](https://bonfari.nl/type/financien/) hebben staan.
 
-*We zijn kritisch en georiënteerd op de lange termijn*
+***We zijn kritisch en georiënteerd op de lange termijn***
 
 Dus, een zo groot mogelijk deel van de euro’s die binnenkomen in Nederland wordt besteed in Gambia/Malawi, waar deze euro’s veel meer waard zijn (denk maar aan [arbitrage handel](https://nl.wikipedia.org/wiki/Arbitrage_(handel))). Hier kijken wij echter nog wel kritisch naar de uitgaven door vooraf te bekijken wat het nut van de projecten is, hoe we de middelen daar het best kunnen besteden, wat de zelfvoorzienendheid is van een project, en hoe het project past in de lange termijn strategie van overige projecten, i.e. projecten rondom nutsvoorzieningen creëren zelf weer extra tractie voor verdere ontwikkelingen. Deze kritische kijk baseren wij grotendeels op de toetsingscriteria die wij behandelen in deze blogreeks over value-based volunteering. Een leuk voorbeeld van het doen van efficiënte uitgaven tijdens een project: tijd is er voldoende in Gambia en je moet de omgeving toch een beetje ontdekken, daarom is er ooit een vrijwilliger 5 wisselkantoren langsgegaan om de beste wisselkoers te krijgen.
 
-*We zetten onze lokale contacten in om de beste projecten te selecteren*
+***We zetten onze lokale contacten in om de beste projecten te selecteren***
 
 Door goed contact te houden met de lokale bevolking is het voor ons mogelijk om de behoefte van projecten echt op waarde te schatten. [De moeder van Frank](https://bonfari.net/over/) weet goed wat er speelt, we hebben korte lijntjes met het Village Development Committee, en via Whatsapp krijgen we soms ook nog berichten binnen vanuit individuele mensen uit Gambia.
 
-*We laten ons informeren op wat anderen beter kunnen*
+***We laten ons informeren op wat anderen beter kunnen***
 
 Het wiel opnieuw uitvinden is natuurlijk voor niemand efficiënt, daarom proberen we altijd ervaring op te halen en te delen bij andere stichtingen zoals [verenigde stichtingen Gambia (VSG)](https://www.vsgambia.com/) en [Volunteer Correct](https://www.volunteercorrect.nl/). Daarnaast zijn er op het internet in het algemeen voldoende kritische bronnen te vinden over goed vrijwilligerswerk zoals [Effective Altruism](https://www.effectivealtruism.org/) fora en [Sara van Kinsbergen](https://www.ru.nl/caos/vm/kinsbergen/).
 
