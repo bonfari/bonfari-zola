@@ -1,5 +1,5 @@
 +++
-title = "Update Fatima en Haddy"
+title = "Update Fatima en Haddy - Verpleegkunde opleiding"
 date = 2022-02-09T20:01:52.766Z
 draft = false
 
@@ -10,8 +10,6 @@ type = ["Blog"]
 author = "Stichting Bonfari"
 project = "Responsible family planning"
 +++
-# Update eind 2021 – Verpleegkunde opleiding
-
 [Sinds 2019](https://bonfari.net/projecten/responsible-family-planning/) ondersteunen we Fatima Ngom en Haddy Njie in hun opleiding verpleegkunde. Het zijn twee slimme jonge vrouwen die we graag de kans bieden iets bij te dragen aan het vrouwen welzijn in onze regio.
 
 Het gaat erg goed met Fatima en Haddy, ze zijn leergierig en halen zeer goede resultaten op de verpleegkunde opleiding. Ondanks dat de studie tijdelijk stillag door corona, zijn beide vrouwen bezig met de afronding van hun basisopleiding tot verpleegkundige! Ze ronden momenteel de laatste module van de opleiding af, voordat ze met hun examens starten. 
@@ -39,8 +37,6 @@ Here we went into the communities to find out what the problems are of that comm
 </td>
 
 <td>
-
-
 
 ![](https://res.cloudinary.com/bonfari/image/upload/c_thumb,w_200,g_face/c_fill,f_auto,q_auto,w_768/v1644437720/blog/Haddy.jpg)
 
