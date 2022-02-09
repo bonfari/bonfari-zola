@@ -1,7 +1,7 @@
 +++
 title = "Update Fatima en Haddy"
 date = 2022-02-09T20:01:52.766Z
-draft = true
+draft = false
 
 [taxonomies]
 type = ["Blog"]
