@@ -38,7 +38,7 @@ Here we went into the communities to find out what the problems are of that comm
 
 <td>
 
-![](https://res.cloudinary.com/bonfari/image/upload/c_thumb,w_200,g_face/c_fill,f_auto,q_auto,w_768/v1644437720/blog/Haddy.jpg)
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1644437720/blog/Haddy.jpg)
 
 </td>
 
@@ -53,7 +53,23 @@ Zowel Haddy als Fatima zitten in hun laatste module. We vroegen Fatima wat ze vo
 
 We are in our community module and this module requires going to the community and conduct community research that will lead you to your community diagnosis. With that you can know the problems disturbing the community. If we can solve it, we intervene. If we can't, we extend it to the ministry. 
 
+<table>
+
+<td>
+
 This work is a group work and we conducted our research in a village of 25 compounds with a population of 538. We used questionnaires to ask each compound questions like: their age, how many houses in the compound, beds with or without bed nets, whether they are involved in petite or large business, whether their children are attending nursery school, primary school, secondary, tertiary or Arabic school. We ask about their source of income, their source of drinking water and we observed their environment for cleanliness and also ask about the diseases that most disturb them. Regarding the last they came up with malaria 🦟 as the most disturbing, followed by respiratory tract disorders en then diarrhea. 
+
+</td>
+
+<td>
+
+
+
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1644437719/blog/Fatima.jpg)
+
+</td>
+
+</table>
 
 So after all that we analyse our findings en solve the problems that we can solve like giving them bed nets en we conducted cleansing exercise 🧹 for the entire community en we also give them health talk. The other issue like not having learning institution in their community, we can't do much about it as students. So, when we go back to our school we will do a presentation about our community research and they will see the problems we found there and it will be extended to the regional health directorate (RHD) then to the ministry for solutions.
 
@@ -63,15 +79,47 @@ We had 1 month here, so Thursday we will be going back to Bansang, then Friday w
 
 # Update Susan van der Ploeg
 
+<table>
+
+<td>
+
 Zowel Haddy als Fatima willen graag hierna hun opleiding vervolgen. Beide denken ze aan de opleiding tot verloskundige. Ze zouden hiervoor allebei graag weer sponsoring ontvangen.
 
 Ik heb afgesproken dat we (Hanneke van de Brink en ik) als ik weer in Gambia ben gaan praten met Mary Joof. Ik heb haar nog nooit ontmoet maar wist dat ze werkt met Thea Mom, een Nederlandse vrouw die ik al jaren via Travelpoort ken (uit de tijd dat ik een huis bouwde). Mary koos ervoor om te werken met en voor de armste vrouwen, is nu gepensioneerd maar doet thuis nog af en toe bevallingen. Bijzonder is dat Karin haar 10 jaar geleden al in haar kliniek bezocht blijkt te hebben!
 
+</td>
+
+<td>
+
+
+
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1644437721/blog/haddywerk.png)
+
+</td>
+
+</table>
+
 # Update Karin van Unen
+
+<table>
+
+<td>
 
 De door ons gesponsorde studenten Haddy en Fatima zijn zeer gemotiveerd en gedreven om hun studie goed te volgen.  Fatima had de hoogste score van haar klas bij het behalen van de studieresultaten in de laatste periode op school! Zie ook de foto.
 
 In het laatste gedeelte van de studie gaan Fatima en Haddy werken in kleine klinieken in het land, zogenaamd fieldwork. Om al het geleerde in de praktijk te brengen zijn er ook bloeddrukmeters, stethoscopen en een verpleegsters horloge gesponsord om de jonge vrouwen in hun werk te ondersteunen. 
+
+</td>
+
+<td>
+
+
+
+![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1644437758/blog/rapport.jpg)
+
+</td>
+
+</table>
 
 Fatima was zo trots en dankbaar met deze spullen! Ze willen graag deze opleiding gaan vervolgen met een studie tot verloskundige. 
 
