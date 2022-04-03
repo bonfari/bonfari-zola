@@ -10,19 +10,7 @@ type = ["Blog"]
 author = "Stichting Bonfari"
 project = "Schoolkraam"
 +++
-<table>
-
-<tr>
-
-<td>
-
-Naast het uitvoeren van nieuwe projecten, houden wij ook afgeronde projecten nauwlettend in de gaten. Zo is het mooi om te zien dat onze marktkraam en moestuinen intussen vanuit de ruimte goed te zien zijn.
-
-<!-- more -->
-
-</td>
-
-<td>
+<table><tr><td>Naast het uitvoeren van nieuwe projecten, houden wij ook afgeronde projecten nauwlettend in de gaten. Zo is het mooi om te zien dat onze marktkraam en moestuinen intussen vanuit de ruimte goed te zien zijn.<!-- more --></td><td>
 
 ![](https://res.cloudinary.com/bonfari/image/upload/c_thumb,w_200,g_face/c_fill,f_auto,q_auto,w_768/v1648972508/blog/update_schoolkraam_ruimte.png)
 
