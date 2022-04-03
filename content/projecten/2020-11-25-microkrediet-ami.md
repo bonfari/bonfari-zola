@@ -4,7 +4,7 @@ date = 2016-01-27T19:03:11.759Z
 draft = false
 
 [extra]
-col = 4
+col = "col-xs-12 col-sm-4"
 author = "Stichting Bonfari"
 image = "naaiatelier"
 afgerond = true

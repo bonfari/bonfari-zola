@@ -4,7 +4,7 @@ date = 2017-11-25T18:51:15.900Z
 draft = false
 
 [extra]
-col = 4
+col = "col-xs-12 col-sm-4"
 author = "Stichting Bonfari"
 image = "malawecare"
 afgerond = true

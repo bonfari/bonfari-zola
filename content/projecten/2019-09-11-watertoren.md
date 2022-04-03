@@ -4,7 +4,7 @@ date = 2019-12-01T19:38:25.831Z
 draft = false
 
 [extra]
-col = 4
+col = "col-xs-12 col-sm-4"
 author = "Stichting Bonfari"
 image = "Watertoren"
 afgerond = false

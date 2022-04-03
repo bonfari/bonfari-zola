@@ -4,7 +4,7 @@ date = 2020-11-25T18:41:10.646Z
 draft = true
 
 [extra]
-col = 4
+col = "col-xs-12 col-sm-4"
 author = "Stichting Bonfari"
 image = "solar"
 afgerond = false

@@ -4,7 +4,7 @@ date = 2017-07-01T17:46:41.310Z
 draft = false
 
 [extra]
-col = 4
+col = "col-xs-12 col-sm-4"
 author = "Stichting Bonfari"
 image = "home_science"
 afgerond = true
