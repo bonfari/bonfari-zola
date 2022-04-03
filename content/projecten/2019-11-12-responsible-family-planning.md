@@ -4,7 +4,7 @@ date = 2019-09-01T18:04:30.170Z
 draft = false
 
 [extra]
-col = 4
+col = "col-xs-12 col-sm-4"
 author = "Stichting Bonfari"
 image = "rfp"
 afgerond = false

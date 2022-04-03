@@ -9,7 +9,7 @@
                     <div class="post" id="portfolio">
                         <div class="row">
                             {% for page in paginator.pages %}
-                            <div class="col-4  portfolio-item">
+                            <div class="{{ page.extra.col }}  portfolio-item">
                                 <a href="{{ page.permalink }}" class="portfolio-link p-0">
                                     <div class="post-summary">
                                         <div class="portfolio-hover">
@@ -31,9 +31,10 @@
                                     <div class="post-preview">
                                         {% if page.date %}
 
-                                        <div class="post-meta">{{ page.date | date(format="%e %B %Y")}}</div>
+                                        <div class="post-meta" style="text-align:center;">{{ page.date | date(format="%e
+                                            %B %Y")}}</div>
                                         {% endif %}
-                                        <a href="{{ page.permalink }}">
+                                        <a href="{{ page.permalink }}" style="text-align:center;">
                                             <h4>{{ page.title }}</h4>
                                         </a>
                                     </div>
