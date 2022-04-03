@@ -18,6 +18,8 @@ project = "Schoolkraam"
 
 Naast het uitvoeren van nieuwe projecten, houden wij ook afgeronde projecten nauwlettend in de gaten. Zo is het mooi om te zien dat onze marktkraam en moestuinen intussen vanuit de ruimte goed te zien zijn.
 
+<!-- more -->
+
 </td>
 
 <td>
