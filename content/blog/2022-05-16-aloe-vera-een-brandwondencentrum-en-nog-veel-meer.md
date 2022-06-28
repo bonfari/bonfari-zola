@@ -1,7 +1,7 @@
 +++
 title = "Aloe Vera: een brandwondencentrum en nog veel meer"
 date = 2022-05-16T13:45:40.446Z
-draft = true
+draft = false
 
 [taxonomies]
 type = ["Blog"]
