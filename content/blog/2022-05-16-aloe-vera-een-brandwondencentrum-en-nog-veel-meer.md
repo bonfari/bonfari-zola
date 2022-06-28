@@ -1,6 +1,6 @@
 +++
 title = "Aloe Vera: een brandwondencentrum en nog veel meer"
-date = 2022-05-16T13:45:40.446Z
+date = 2022-05-28T13:45:40.446Z
 draft = false
 
 [taxonomies]
