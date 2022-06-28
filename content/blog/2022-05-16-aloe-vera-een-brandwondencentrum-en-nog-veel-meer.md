@@ -10,9 +10,7 @@ tags = ["Vrijwilligers"]
 [extra]
 author = "Stichting Bonfari"
 +++
-Voor ons bezoek in Gambia in april 2022, hadden we van Susan te horen gekregen dat we echt een keer langs moesten gaan bij het Aloe Vera brandwondencentrum richting Mariama Kunda. Ze had niks teveel gezegd! 
-
-<!--more-->
+Voor ons bezoek in Gambia in april 2022, hadden we van Susan te horen gekregen dat we echt een keer langs moesten gaan bij het Aloe Vera brandwondencentrum richting Mariama Kunda. Ze had niks teveel gezegd!<!-- more -->
 
 De eigenaresse van het brandwondencentrum, Claudette Sarr-Krook**,** bleek een Nederlander. Ze woont zelf al sinds 1994 in Gambia en heeft sinds die tijd niet stilgezeten. Naast het brandwondencentrum heeft ze samen met haar man een succesvolle commerciele onderneming op weten te zetten waarvan een deel van de opbrangsten gebruikt worden om projecten uit te voeren voor [Stichting Care for Natural](https://www.stichting-carefornatural.org/). Tijdens ons gesprek met haar, heeft ze ons goed aan het denken gezet en hebben we veel samenwerkingsmogelijkheden besproken. Hierom leek het ons een goed idee om voor onszelf, voor jullie en voor eventuele afstudeerders een blog te wijden aan deze stichting.
 
