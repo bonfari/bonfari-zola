@@ -23,8 +23,4 @@ Stichting Bonfari wil in samenwerking met het VDC een watertoren realiseren. Hie
 2. zonnepanelen plaatsen voor de electrische pomp + plaatsen pomp; 
 3. pijpleidingen aanleggen;
 4. toren opbouwen + plaatsen watertank; 
-5. waterkranen aanleggen op strategische plekken in het dorp. 
-
-## Wij zoeken vrijwilligers voor dit project!
-
-![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_1024/v1626891064/watertorenvrijwilliger.png)
+5. waterkranen aanleggen op strategische plekken in het dorp.
