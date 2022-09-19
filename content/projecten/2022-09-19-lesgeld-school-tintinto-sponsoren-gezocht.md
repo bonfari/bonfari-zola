@@ -1,5 +1,5 @@
 +++
-title = "Lesgeld school Tintinto - sponsoren gezocht"
+title = "School Tintinto - sponsoren gezocht"
 date = 2022-09-19T15:26:20.841Z
 draft = false
 
