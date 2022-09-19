@@ -1,7 +1,7 @@
 +++
 title = "Lesgeld School Tintinto - sponsoren gezocht"
 date = 2022-09-19T15:26:20.841Z
-draft = true
+draft = false
 
 [extra]
 col = 4
