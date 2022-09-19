@@ -1,12 +1,12 @@
 +++
-title = "Lesgeld School Tintinto - sponsoren gezocht"
+title = "Lesgeld school Tintinto - sponsoren gezocht"
 date = 2022-09-19T15:26:20.841Z
 draft = false
 
 [extra]
 col = 4
 author = "Stichting Bonfari"
-image = "sun"
+image = "schoolkraam"
 afgerond = false
 +++
 <!--\[if gte mso 9]><xml>
