@@ -1,5 +1,5 @@
 +++
-title = "Schoolproject Tintinto – sponsoren gezocht"
+title = "School – sponsoren gezocht"
 date = 2022-04-03T08:12:47.698Z
 draft = true
 
