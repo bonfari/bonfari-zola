@@ -41,10 +41,50 @@
     border-color: #f05f40;
 }
 
-img{
+img {
     display: block;
     width: 80%;
     margin-left: auto;
     margin-right: auto;
-    
+
+}
+
+#progressbar {
+    background-color: black;
+    border-radius: 8px;
+    padding: 3px;
+    width: 100%;
+}
+
+#progressbar div {
+    background-color: #f05f40;
+    width: 25%;
+    height: 20px;
+    border-radius: 5px;
+    animation: loadbar 2s;
+    -webkit-animation: loadbar 2s;
+}
+
+@keyframes loadbar {
+
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 25%;
+    }
+
+}
+
+@-webkit-keyframes loadbar {
+
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 25%;
+    }
+
 }

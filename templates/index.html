@@ -45,7 +45,12 @@
         <i class="fas fa-bars"></i>
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
+
         <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link"
+              href="{{ config.base_url }}">Doneren</a>
+          </li>
           {% for item in config.extra.clean_blog_menu %}
           <li class="nav-item">
             <a class="nav-link"

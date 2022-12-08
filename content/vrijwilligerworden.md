@@ -9,5 +9,4 @@ De openstaande <a href="../projecten">projecten</a> kunnen door vrijwilligers op
   \
 {{ cloudinary(path="Vrijwilliger", class="img-responsive", width="600", opts="ar_8:5,r_80") }}
 </br>
-</br>
 <b>Interesse gewekt?</b> Neem dan een ook even een kijkje op onze <a href="../vrijwilligers">vrijwilligerspagina</a> voor wat meer informatie.

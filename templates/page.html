@@ -10,10 +10,21 @@
 {% block content %}
 <!-- Post Content -->
 <article>
-
   <div class="container-fluid">
     <div class="row">
       <div class="col-xl-8 col-lg-9 col-md-10 col-sm-11 col-xs-12 mx-auto">
+        {% set section = get_section(path="blog/_index.md") %}
+
+        {% if page.extra.image %}
+          <h5>Updates van dit project</h5>
+          <ul>
+            {% for blog in section.pages %}
+              {% if blog.extra.project and blog.extra.project == page.title %}
+              <li><a href="{{ blog.permalink }}">{{ blog.title }} ({{ blog.date | date(format="%Y-%m-%d") }})</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        {% endif %}
         <span class="meta sub-heading post-heading">
           <div class="post-preview">
             <p class="post-meta">Posted by
@@ -49,18 +60,7 @@
           </p>
         </div>
         {% endif %}
-        {% if page.extra.image %}
-            <h5>Updates van dit project</h5>
 
-          <ul>
-            {% set section = get_section(path="blog/_index.md") %}
-            {% for blog in section.pages %}
-            {% if blog.extra.project and blog.extra.project == page.title %}
-            <li><a href="{{ blog.permalink }}">{{ blog.title }} ({{ blog.date | date(format="%Y-%m-%d") }})</a></li>
-            {% endif %}
-            {% endfor %}
-          </ul>
-        {% endif %}
         </div>
       </div>
     </div>
