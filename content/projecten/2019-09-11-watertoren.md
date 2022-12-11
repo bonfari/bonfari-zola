@@ -14,7 +14,7 @@ De watertoren <a href="https://photos.google.com/share/AF1QipOaWK7cCmcizuFcsiqG9
 <br>
 <br>
 <div id="progressbar">
-    <div></div>
+    <div style="color:white; text-align: right"> €1.500,-</div>
 </div>
 <br>
 <h5>Project Omschrijving</h5>
