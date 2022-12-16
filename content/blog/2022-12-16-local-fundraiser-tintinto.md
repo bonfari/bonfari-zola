@@ -1,6 +1,6 @@
 +++
 title = "Local Fundraiser Tintinto"
-date = 2022-12-16T16:09:35.020Z
+date = 2022-12-02T16:09:35.020Z
 draft = false
 
 [taxonomies]
