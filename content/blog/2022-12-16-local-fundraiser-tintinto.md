@@ -5,7 +5,7 @@ draft = false
 
 [taxonomies]
 type = ["Blog"]
-tags = ["#Ownership #LokaleFundraiser"]
+tags = ["Ownership LokaleFundraiser"]
 
 [extra]
 author = "Stichting Bonfari"
