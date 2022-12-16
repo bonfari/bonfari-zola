@@ -1,7 +1,7 @@
 +++
 title = "Local Fundraiser Tintinto"
 date = 2022-12-16T16:09:35.020Z
-draft = true
+draft = false
 
 [taxonomies]
 type = ["Blog"]
