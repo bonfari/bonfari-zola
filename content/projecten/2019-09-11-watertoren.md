@@ -6,7 +6,7 @@ draft = false
 [extra]
 col = "col-xs-12 col-sm-4"
 author = "Stichting Bonfari"
-image = "Watertoren"
+image = "Watertoren_af"
 afgerond = false
 +++
 <h5>Sponsoring</h5>
