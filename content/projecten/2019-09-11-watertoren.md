@@ -9,15 +9,6 @@ author = "Stichting Bonfari"
 image = "Watertoren_af"
 afgerond = false
 +++
-<h5>Sponsoring</h5>
-De watertoren <a href="https://photos.google.com/share/AF1QipOaWK7cCmcizuFcsiqG959FBT94xwU1Fa4uyoBjGV_zr3K-HVteOwQQRAuFYZmh5Q?key=OHZsNU9GanMycXJ0MHlQU2tvUTZ5Zk5SUXFmakJn">staat</a>! Helaas hebben ze ook in Gambia last van stevige inflatie. Hierdoor zijn de kosten van het watertoren project helaas 5.000,- euro hoger uitgevallen en hebben we niet voldoende pijpleidingen kunnen leggen om het heel Tintinto van water te voorzien. We missen nog <b> 1.6KM </b> leiding. Via onze trouwe achterban zijn we momenteel bezig het gat in onze begroting te dichten. Hoewel we al een heel eind zijn, is de teller nog niet vol. Momenteel hebben we nog <b> €4.567,- euro </b> van de <b> €6.865,- euro </b> nodig. Wilt u helpen met een bijdrage, kijk dan naar onze  <a href="https://www.bonfari.nl">donatie</a> pagina of stuur voor extra info een  <a href="mailto:info@bonfari.nl">mail</a>.
-<br>
-<br>
-<div id="progressbar">
-    <div style="color:white; text-align: right"> €2.298,-</div>
-</div>
-<br>
-<h5>Project Omschrijving</h5>
 Schoon drinkwater en primaire medische zorg zijn primaire levensbehoeften. In Gambia zijn beide niet vanzelfsprekend. Met het Village Development Committee (VDC) van Tintinto is een plan gemaakt om een watertoren en een medische post in Tintinto te bouwen. Hierbij zal eerst de watertoren moeten worden gebouwd, omdat schoon stromend water nodig is voor de medische post.
 
 Schoon drinkwater uit een kraan is in Gambia niet de standaard. Water komt vaak uit waterputten die bewoners zelf graven. Dit is gevaarlijk werk, en levert geen schoon water op.

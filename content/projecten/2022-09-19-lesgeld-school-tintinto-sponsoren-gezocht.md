@@ -17,7 +17,7 @@ Vanaf dit schooljaar is onder leiding van Hanneke en Susan een sponsorprogramma 
 
 De uitvoering van dit project ligt in handen van de directeur van de school: Memba Kinteh. Bij de meeste kinderen krijgen de ouders het geld (in twee separate delen uitgekeerd), en controleert Memba of de kinderen inderdaad goed gekleed en met etensgeld op school aanwezig zijn. In enkele gevallen beheert Memba zelf het geld voor de lunch dat door de kinderen bij hem afgehaald kan worden.
 
-Hanneke en Susan onderhouden contact met de kinderen en hun families. Hierbij nemen zij niet de rol op zich om de kinderen te controleren, maar pr[](<>)oberen zij wel te kijken wat de impact is van de ondersteuning die wordt gegeven. Het bestuur van Bonfari ziet in dit project voornamelijk toe op het naleven van onze pijlers.
+Hanneke en Susan onderhouden contact met de kinderen en hun families. Hierbij nemen zij niet de rol op zich om de kinderen te controleren, maar proberen zij wel te kijken wat de impact is van de ondersteuning die wordt gegeven. Het bestuur van Bonfari ziet in dit project voornamelijk toe op het naleven van onze pijlers.
 
 Omdat het project een langere looptijd heeft, waarbij jaarlijks een investering wordt gevraagd, zijn wij opzoek naar mensen die een kind zouden willen sponsoren. De kosten per kind zijn €12,50 per maand. Hiervoor krijgt hij alle bovenstaande voorzieningen. Met de sponsoring van een kind help je niet alleen een kind, maar ook de familie rond het kind.
 
