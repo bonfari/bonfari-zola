@@ -10,7 +10,7 @@ tags = ["Ownership LokaleFundraiser"]
 [extra]
 author = "Stichting Bonfari"
 +++
-Voor Gambiaanse organisaties is het vaak de norm om te zoeken naar financiële sponsors uit eerste wereld landen. Bonfari heeft het idee dat dit in sommige gevallen de zelfredzaamheid van organisaties vermindert. Tijdens een recente editie van de Verenigde Stichtingen Gambia (VSG) dag is er een lokale fondsenwervings workshop bijgewoond waarvan we de inzichten graag wilden gebruiken.\
+Voor Gambiaanse organisaties is het vaak de norm om te zoeken naar financiële sponsors uit eerste wereld landen. Bonfari heeft het idee dat dit in sommige gevallen de zelfredzaamheid van organisaties vermindert. Tijdens een recente editie van de Verenigde Stichtingen Gambia (VSG) dag is er een lokale fondsenwervings workshop bijgewoond waarvan we de inzichten graag wilden gebruiken.<!-- more -->\
 
 Tijdens een bezoek aan de lokale school leerde Bonfari dat het dak van het toiletgebouw voor meiden zwaar beschadigd was door een storm. De school krijgt geen financiële ondersteuning van de overheid om dit soort zaken op te lossen, en op die manier wist directeur Kinteh niet wat te doen. In het verleden is er geld opgehaald door lokale groentes zoals cassave te verkopen tijdens de lunchpauzes in de vorm van een snack (Ebbeh). Hier zou echter het doel bedrag van 8000 Dalasi niet mee opgehaald kunnen worden.\
 

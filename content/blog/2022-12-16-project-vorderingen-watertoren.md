@@ -11,7 +11,7 @@ tags = ["#Watertoren #ProjectUpdate"]
 author = "Stichting Bonfari"
 project = "Watertoren"
 +++
-Vanaf begin oktober 2022 is Bonfari druk bezig geweest met het realiseren van schoon drinkwater in Tintinto. Op het moment is er nog 3800 euro nodig om de resterende 2 km aan leiding en wateraansluitingen te financieren. Met dit geld kunnen we ongeveer 1500 mensen van schoon drinkwater voorzien. 
+Vanaf begin oktober 2022 is Bonfari druk bezig geweest met het realiseren van schoon drinkwater in Tintinto. Op het moment is er nog 3800 euro nodig om de resterende 2 km aan leiding en wateraansluitingen te financieren. Met dit geld kunnen we ongeveer 1500 mensen van schoon drinkwater voorzien.<!-- more --> 
 
 Een overzicht van de hoogtepunten die al wel, *mede door onze donateurs,* mogelijk zijn gemaakt:
 
