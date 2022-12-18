@@ -11,14 +11,14 @@ tags = ["#Watertoren #ProjectUpdate"]
 author = "Stichting Bonfari"
 project = "Watertoren"
 +++
-Vanaf begin oktober 2022 is Bonfari druk bezig geweest met het realiseren van schoon drinkwater in Tintinto. Op het moment is er nog 3800 euro nodig om de resterende 2 km aan leiding en wateraansluitingen te financieren. Met dit geld kunnen we ongeveer 1500 mensen van schoon drinkwater voorzien.<!-- more --> 
+Vanaf begin oktober 2022 is Bonfari druk bezig geweest met het realiseren van schoon drinkwater in Tintinto. Op het moment is er nog 3800 euro nodig om de resterende 2 km aan leiding en wateraansluitingen te financieren. Met dit geld kunnen we ongeveer 1500 mensen van schoon drinkwater voorzien.
 
 Een overzicht van de hoogtepunten die al wel, *mede door onze donateurs,* mogelijk zijn gemaakt:
 
 * **Een waterleidingnetwerk van 1,1 km is aangelegd**. Hierbij hebben op sommige momenten wel 75 dorpelingen tegelijk geholpen met het graven van geulen. 
 * **Een watertoren met een capaciteit van 10.000 liter is gebouwd.** De toren zelf is zo ontworpen dat capaciteitsuitbreidingen mogelijk zijn in de toekomst.
 * **Een pomp die tot 60.000 liter aan water kan oppompen is geïnstalleerd** in een borehole op 40 meter diepte. De pomp werkt op elektriciteit geleverd door 8 zonnepanelen. 
-* **Er is een 6 koppig water committee opgericht** die verantwoordelijk is voor het beheer en onderhoud van het waternetwerk.
+* **Er is een 6 koppig water committee opgericht** die verantwoordelijk is voor het beheer en onderhoud van het waternetwerk.<!-- more --> 
 
 ![](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1671208023/20221013_094856.jpg "Salifu Soh, Idi Bah en Makang Kuyateh, leden van de door Bonfari opgezette water committee.")
 
