@@ -1,7 +1,7 @@
 +++
 title = "Project Vorderingen - Watertoren"
 date = 2022-12-16T16:21:19.106Z
-draft = true
+draft = false
 
 [taxonomies]
 type = ["Blog"]
