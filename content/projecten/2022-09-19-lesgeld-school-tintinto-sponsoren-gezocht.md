@@ -4,7 +4,7 @@ date = 2022-09-19T15:26:20.841Z
 draft = false
 
 [extra]
-col = 4
+col = "col-xs-12 col-sm-4"
 author = "Stichting Bonfari"
 image = "schoolkraam"
 afgerond = false
