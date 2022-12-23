@@ -12,49 +12,73 @@
 <article>
   <div class="container-fluid">
     <div class="row">
+
       <div class="col-xl-8 col-lg-9 col-md-10 col-sm-11 col-xs-12 mx-auto">
-        {% set section = get_section(path="blog/_index.md") %}
+        <div class="row">
+          <div class="col-10">
 
-        {% for blog in section.pages %}
-          {% if blog.extra.project and blog.extra.project == page.title %}
-          <h4><a href="{{ blog.permalink }}">Update: {{ blog.title }} ({{ blog.date | date(format="%Y-%m-%d") }})</a></h4>
-          {% endif %}
-        {% endfor %}
-        <span class="meta sub-heading post-heading">
-          <div class="post-preview">
-            <p class="post-meta">Posted by
-              {% if page.extra.author %}
-              <a href="{{ get_url(path="/over")}}/{{page.extra.author | lower }}">{{page.extra.author}}
-                {% else %}
-                <a href="#">{{config.extra.author}}
-                  {% endif %}
-                </a>
-                {% if page.date %}
-                on {{ page.date | date(format="%e %B %Y")}}
-                {% endif %}
-            </p>
+            <span class="meta sub-heading post-heading">
+              <div class="post-preview">
+                <p class="post-meta">Posted by
+                  {% if page.extra.author %}
+                  <a href="{{ get_url(path="/over")}}/{{page.extra.author | lower }}">{{page.extra.author}}
+                    {% else %}
+                    <a href="#">{{config.extra.author}}
+                      {% endif %}
+                    </a>
+                    {% if page.date %}
+                    on {{ page.date | date(format="%e %B %Y")}}
+                    {% endif %}
+                </p>
+              </div>
+            </span>
+
+            {% if page.extra.image %}
+            <div class="d-flex justify-content-center">
+              <a href="{{ page.permalink }}">
+                <img {% if class %}class="{{class}}" {% endif %} width="100%"
+                  src="https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768,ar_3:2/v1594394902/{{page.extra.image}}"
+                  alt="{{page.extra.image}}">
+              </a>
+            </div>
+            {% endif %}
+            {{ page.content | safe }}
           </div>
-        </span>
+          <div class="col-2">
+            <div class="posts">
+              <a href="">
+                <h4 class="post-title">Updates:</h4>
+              </a>
+              <p>
+                {% set section = get_section(path="blog/_index.md") %}
 
-        {% if page.extra.image %}
-        <div class="d-flex justify-content-center">
-          <a href="{{ page.permalink }}">
-            <img {% if class %}class="{{class}}" {% endif %} width="100%"
-              src="https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768,ar_3:2/v1594394902/{{page.extra.image}}"
-              alt="{{page.extra.image}}">
-          </a>
+                {% for blog in section.pages %}
+                  {% if blog.extra.project and blog.extra.project == page.title %}
+                  <a href="{{ blog.permalink }}">{{ blog.title }} ({{ blog.date | date(format="%Y-%m-%d") }})</a>
+                  {% endif %}
+                {% endfor %}
+              </p>
+            </div>
+            <div class="posts">
+              {% if page.taxonomies.tags %}
+                <a href="">
+                  <h4 class="post-title">Tags:</h4>
+                </a>
+                {% if page.taxonomies.tags %}
+                <div class="post-tags">
+                  <p>Tags:
+                    {% for tag in page.taxonomies.tags %}
+                    <a href="{{ get_taxonomy_url(kind="tags", name=tag) }}">#{{ tag }}</a>
+                    {% endfor %}
+                  </p>
+                </div>
+              {% endif %}
+            </div>
+          </div>
         </div>
-        {% endif %}
-        {{ page.content | safe }}
-        {% if page.taxonomies.tags %}
-        <div class="post-tags">
-          <p>Tags:
-            {% for tag in page.taxonomies.tags %}
-            <a href="{{ get_taxonomy_url(kind="tags", name=tag) }}">#{{ tag }}</a>
-            {% endfor %}
-          </p>
-        </div>
-        {% endif %}
+
+
+
 
         </div>
       </div>
