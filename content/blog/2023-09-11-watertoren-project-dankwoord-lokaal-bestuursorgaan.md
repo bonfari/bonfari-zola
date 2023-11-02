@@ -1,10 +1,11 @@
 +++
 title = "Watertoren project - Dankwoord Lokaal bestuursorgaan"
-date = 2023-09-17T09:19:34.144Z
-draft = true
+date = 2023-11-02T10:19:34.144Z
+draft = false
 
 [taxonomies]
 type = ["Blog"]
+tags = ["#Watertoren"]
 
 [extra]
 author = "Stichting Bonfari"
