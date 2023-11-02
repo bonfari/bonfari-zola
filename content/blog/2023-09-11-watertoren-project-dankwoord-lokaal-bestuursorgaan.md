@@ -5,7 +5,7 @@ draft = false
 
 [taxonomies]
 type = ["Blog"]
-tags = ["#Watertoren"]
+tags = ["Watertoren"]
 
 [extra]
 author = "Stichting Bonfari"
