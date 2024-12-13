@@ -1,7 +1,7 @@
 +++
 title = "Computer Literacy"
 date = 2024-12-13T10:17:58.433Z
-draft = true
+draft = false
 
 [extra]
 col = 4
