@@ -6,7 +6,7 @@ draft = false
 [extra]
 col = 4
 author = "Stichting Bonfari"
-image = "computer"
+image = "bibliotheek"
 afgerond = true
 +++
 Vanuit Bonfari hebben we in combinatie met donateurs zoals [Datalane](https://www.datalane.com/) en [Louwers IP&Tech Advocaten](https://louwersadvocaten.nl/) de afgelopen jaren bijgedragen aan de basis IT behoeften voor de Sotokoi Tintinto Basic Cycle School. Dit hebben we gedaan om zowel de tientallen leraren als de duizenden leerlingen te ondersteunen op het gebied van IT.
