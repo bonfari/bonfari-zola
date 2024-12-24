@@ -14,6 +14,8 @@ project = ""
 
 Met de kerst en de jaarwisseling in het vooruitzicht willen we graag even de tijd nemen om u te bedanken voor uw steun aan Stichting Bonfari gedurende de afgelopen jaren. U heeft ons in staat gesteld om sinds 2016 belangrijke projecten te realiseren en positieve verandering te brengen in het leven van mensen die het hard nodig hebben.
 
+<!-- more --> 
+
 Dankzij uw hulp hebben we verschillende[](https://bonfari.us13.list-manage.com/track/click?u=8fcd97d6b4c64a30cde8f37e0&id=0a9c682b9e&e=cce4688939) [succesvolle projecte](https://bonfari.us13.list-manage.com/track/click?u=8fcd97d6b4c64a30cde8f37e0&id=ef8db494b3&e=cce4688939)[n](https://bonfari.us13.list-manage.com/track/click?u=8fcd97d6b4c64a30cde8f37e0&id=b8af9cc04a&e=cce4688939) kunnen uitvoeren die tot vandaag de dag door de lokale bevolking doorgezet worden. Variërend van de aanleg van schoon water door het hele dorp, inclusief onderhoudscommissie en lokale waterbelasting  voor impact op de lange termijn, tot de inrichting van de bibliotheek en aanleg van een moestuin voor de lokale school. Uw bijdrage heeft een directe en blijvende impact gehad op talloze levens, en daar zijn we enorm dankbaar voor.
 
 # De uitbreiding van de Watertoren 
