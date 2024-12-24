@@ -10,15 +10,19 @@ type = ["Blog"]
 author = "Stichting Bonfari"
 project = ""
 +++
-Bonfari Nieuwsbrief December 2024
+**Beste Bonfari familie,**
+
+Met de kerst en de jaarwisseling in het vooruitzicht willen we graag even de tijd nemen om u te bedanken voor uw steun aan Stichting Bonfari gedurende de afgelopen jaren. U heeft ons in staat gesteld om sinds 2016 belangrijke projecten te realiseren en positieve verandering te brengen in het leven van mensen die het hard nodig hebben.
+
+Dankzij uw hulp hebben we verschillende[](https://bonfari.us13.list-manage.com/track/click?u=8fcd97d6b4c64a30cde8f37e0&id=0a9c682b9e&e=cce4688939) [succesvolle projecte](https://bonfari.us13.list-manage.com/track/click?u=8fcd97d6b4c64a30cde8f37e0&id=ef8db494b3&e=cce4688939)[n](https://bonfari.us13.list-manage.com/track/click?u=8fcd97d6b4c64a30cde8f37e0&id=b8af9cc04a&e=cce4688939) kunnen uitvoeren die tot vandaag de dag door de lokale bevolking doorgezet worden. Variërend van de aanleg van schoon water door het hele dorp, inclusief onderhoudscommissie en lokale waterbelasting  voor impact op de lange termijn, tot de inrichting van de bibliotheek en aanleg van een moestuin voor de lokale school. Uw bijdrage heeft een directe en blijvende impact gehad op talloze levens, en daar zijn we enorm dankbaar voor.
 
 # De uitbreiding van de Watertoren 
 
-Vervolg van het waterproject in Tintinto
+**Vervolg van het waterproject in Tintinto**
 
 Sinds de laatste update over het waterproject in 2022 is er veel gebeurd in Tintinto. De watertoren die toen is neergezet, was namelijk toe aan een uitbreiding. Dit was noodzakelijk omdat er in sommige gedeelten van het dorp nog maar beperkt drinkwater beschikbaar was, en wij graag iedereen in het dorp van schoon drinkwater willen voorzien. Daarnaast bleek de watercapaciteit van de huidige toren op bewolkte dagen, wanneer de zonne-energie beperkt is, niet voldoende te zijn. Daarom hebben we besloten tot een uitbreiding van het leidingnetwerk met extra tappunten en een vergroting van de capaciteit van de watertoren. Dit project is mogelijk gemaakt door de lentemarkt van de Bethelkerk Vlaardingen, waar tientallen vrijwilligers zich voor ingezet hebben. Heel erg bedankt! Ook dank aan Wilde Ganzen voor hun royale steun aan dit project.
 
-![]()
+![](https://res.cloudinary.com/bonfari/image/upload/v1735053850/blog/2024_12_watertoren.png)
 
 **Voortgang en nieuwe ontwikkelingen**
 
@@ -36,8 +40,6 @@ Met de laatste fase van het project in zicht, richten we onze blik op de toekoms
 
 We willen iedereen bedanken die dit project mogelijk heeft gemaakt. Uw steun, of het nu financieel is of door vrijwilligerswerk, heeft een enorme impact gehad op het leven van de mensen in Tintinto. Samen maken we een verschil.
 
-
-
 # IT Literacy and Computer Lessons
 
 Vanuit Bonfari hebben we de afgelopen jaren bijgedragen aan de basis IT behoeften voor de Sotokoi Tintinto Basic Cycle School. Dit hebben we gedaan om zowel de tientallen leraren als de duizenden leerlingen te ondersteunen op het gebied van IT.
@@ -48,17 +50,13 @@ De meeste leerlingen hebben nog nooit een computer gezien, laat staan de kans ge
 
 Het afgelopen jaar heeft de [MRC Holland Foundation](https://www.mrcholland.com/about-us/foundation) 12 klaslokalen en een (zandvrij) computerlokaal met een aantal desktop gedoneerd aan de Sotokoi Tintinto Basic Cycle School. Hierdoor kreeg de school de mogelijkheid om de aanpak rondom computerlessen te professionaliseren. Er was geen officiële organisatie vanuit de overheid m.b.t. lesstof of het aanbieden van een docent maar gelukkig besloot Mr. Jallow, de IT manager, hier werk van te maken en kregen wij het volgende Whatsappje: 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXegI6mjIQjL-fvbPjkc_FU-J9GO5I7ptmocyqR3_jkexuPhyfZz8EUlUsz7d8wxU8hdGg6GBlSHGzrK8mzwngaX0wtdKmlatYOpZgm5wPxy42DVxXfILL-S11Eu7hK516zNJ9OAsHAb4BBuB0kmS7o?key=3ISSK7dE1Wn6FU9B_zsfVUDu)
+![](https://res.cloudinary.com/bonfari/image/upload/v1735053850/blog/2024_12_whatsapp.png)
 
 Als Bonfari proberen we normaal geen tijdelijke projecten op te pakken die afhankelijk zijn van individuen. Dus dit was een aanvraag waar we even over na moesten denken. Aangezien er een vraag was, het project gedragen kon worden door een local, het geen geld hoefde te kosten en doordat algemene lesstof niet jaarlijks bijgewerkt hoeft te worden besloten we dat dit binnen onze richtlijnen viel.
 
 We hebben twee manieren van aanpak overwogen: het aanschaffen van een lespakket via een officiële aanbieder, en het samenstellen van een lespakket op basis van gratis online materiaal. De eerste viel al gauw af vanwege de kosten en afhankelijkheid. De tweede aanpak bleek een succes en na wat Googlen vonden we al gauw [een computing curriculum die aangeboden werd door de Raspberry Pi Foundation](https://teachcomputing.org/curriculum). Na het doorlopen van de cursus en het verwijderen van overbodig of niet uit te voeren materiaal hebben we het doorgestuurd naar Mr. Jallow. Hij heeft een deel gebruikt om zelf te leren en is vervolgens ook begonnen met de eerste lessen.
 
-
-
-|     |     |
-| --- | --- |
-|     |     |
+![](https://res.cloudinary.com/bonfari/image/upload/v1735053850/blog/2024_12_ict.png)
 
 # Sponsoring schoolkinderen Tintinto
 
@@ -74,7 +72,7 @@ Wel hebben we besloten om de sponsoring te laten lopen tot en met groep 9 omdat 
 
 Inmiddels betreft het nu nog 7 kinderen.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJys7XXGf_tbbQx2gkm8cHXB4N3c-eFvyTXFHtV3R8dlTuNnJMuiVjwWj5vZoAHcYSqC9KcSB6wXR1QXpKoV64BJECISQuHCummX2PQT-2qHsk1q85ZX1Q1BJQaj6nUWfmy4pDHhWOJxqNJYBagw?key=3ISSK7dE1Wn6FU9B_zsfVUDu)
+![](https://res.cloudinary.com/bonfari/image/upload/v1735053850/blog/2024_12_schoolsponsoring.png)
 
 # De Marktkraam
 
@@ -84,6 +82,10 @@ Voordat we aan de uitbreiding van de watertoren begonnen, hadden we het plan om 
 
 # Doneren 
 
+Met de blik op 2025, willen we u vragen om te overwegen om een jaarlijks herhalende donatie aan Stichting Bonfari te overwegen. Door een regelmatige bijdrage te leveren, kunt u ons helpen om onze langetermijnplannen te verwezenlijken en continuïteit te bieden. Uw voortdurende steun zal ons in staat stellen om onze impact verder uit te breiden en nog meer mensen te helpen.
+
+We begrijpen dat het maken van een beslissing over een jaarlijkse donatie zorgvuldig moet worden overwogen. Daarom nodigen we u uit om contact met ons op te nemen als u meer informatie wilt ontvangen over onze projecten, de impact die we hebben gehad en hoe uw donatie bijdraagt aan het verbeteren van mensenlevens. We staan klaar om al uw vragen te beantwoorden en u te voorzien van de nodige informatie om een weloverwogen keuze te maken. Bijvoorbeeld over de voordelen van periodiek schenken? Hiervoor bestaat het Bonfari ANBI formulier, waarmee u binnen een minuut regelt dat uw gift direct van de belasting aftrekbaar is.
+
 Zoals altijd zijn de [financiën openbaar](https://bonfari.nl/type/financien/) en kunt u op [onze website](https://bonfari.nl/) informatie vinden over belastingvrije donaties via de ANBI regeling.
 
 Een donatie kunt u doen door geld over te maken naar NL74 RBRB 0939 7752 47 t.n.v. Stichting Bonfari met beschrijving ‘Marktkraam’ - elke donatie is welkom. 
@@ -91,3 +93,9 @@ Een donatie kunt u doen door geld over te maken naar NL74 RBRB 0939 7752 47 t.n.
 Voor betaalgemak zijn 3 betaalverzoeken aangemaakt, daarvan kunt u gebruik maken d.m.v. onderstaande knoppen.
 
 [€20,-](https://diensten.regiobank.nl/online/betaalverzoek/#/v2/a79c2554-b274-4e14-b905-7a569bd5d4ec/iLnmz6Dql06iK9WNECRQA79NErMt9JgK) / [€50,-](https://diensten.regiobank.nl/online/betaalverzoek/#/v2/ffae846a-eb89-4562-b503-881a4d1614f8/2DpM2Hco5DsU7vbnLJQZv4NE3WqdlLgm) / [vrije keuze](https://diensten.regiobank.nl/online/betaalverzoek/#/v2/80cdfbd5-dd37-4251-9ec9-393c1b7367ec/8llJEYjWmrY3VU5bFxz9S2NBQGnD0DA1)
+
+Nogmaals willen we u bedanken voor uw voortdurende steun en vertrouwen in Stichting Bonfari. We hopen dat u samen met uw dierbaren een vreugdevol kerstfeest beleeft en een voorspoedig nieuwjaar tegemoet gaat.
+
+Met hartelijke groet van het bestuur van stichting Bonfari,
+
+Rogier, Feike, Frank, Simon, David en Tessa
