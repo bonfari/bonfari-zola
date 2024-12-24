@@ -16,8 +16,6 @@ In oktober 2022 hebben Feike en Sicco namens Bonfari, in directe samenwerking me
 
 <!-- more --> 
 
-
-
 ![De opgeleverde watertoren & de zonnecollectoren](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1694423014/opgeleverde_watertoren.jpg "De opgeleverde watertoren & de zonnecollectoren")
 
 ![Aannemer Ansu rust uit in de watertoren](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1694423033/Aannemer_Ansu.png "Aannemer Ansu rust uit in de watertoren")
