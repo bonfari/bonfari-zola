@@ -18,10 +18,6 @@ In oktober 2022 hebben Feike en Sicco namens Bonfari, in directe samenwerking me
 
 ![Aannemer Ansu rust uit in de watertoren](https://res.cloudinary.com/bonfari/image/upload/c_fill,f_auto,q_auto,w_768/v1694423033/Aannemer_Ansu.png "Aannemer Ansu rust uit in de watertoren")
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 Een goed onderhoudsplan, van te voren afgestemd met de VDC en de inwoners van Tintinto, was voor ons een van de belangrijkste onderdelen van dit project. Op bezoek bij andere vrijwilligersorganisaties in de regio, werd bevestigd dat het hebben van een gezond onderhoudsplan en een commissie om het onderhoud te organiseren essentieel is voor langdurige impact. 
 
 Om succesvol langdurig onderhoud te realiseren hebben we allereerst samen met de VDC het ‘Water Committee Tintinto` opgericht. De Water Committee is verantwoordelijk voor alle zaken die met de watertoren te maken hebben nadat de constructie neergezet is en overhandigd is: hoofdzakelijk het onderhoud van de toren, aanleggen van nieuwe leidingen en kranen, en het innen van onderhoudsgeld hiervoor. Naast de bouw van de watertoren, was de belangrijkste taak voor Feike en Sicco een onderhoudsplan te maken en de Water Committee op te leiden om dit uit te gaan voeren. Denk hierbij aan het leren werken met facturen en bonnetjes zodat het project financieel transparant uitgevoerd wordt. De Water Committee werd ook al betrokken bij de discussies over de locatie van de toren, de zonnepanele en het selecteren van locaties waar waterkranen geïnstalleerd werden. 
