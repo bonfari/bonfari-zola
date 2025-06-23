@@ -10,6 +10,6 @@ type = ["financien"]
 [extra]
 author = "Bonfari"
 +++
-Onze jaarverslagen zijn beschikbaar in [deze map](https://drive.google.com/drive/folders/1dY_TVLyGmMw8la1-l44bz4QWygIle8kZ?usp=sharing/view), gepubliceerd tot aan 2024.
+Onze jaarverslagen zijn beschikbaar in [deze map](https://drive.google.com/drive/folders/1dY_TVLyGmMw8la1-l44bz4QWygIle8kZ?usp=sharing/view), gepubliceerd tot en met 2024.
 
 <!-- more -->
